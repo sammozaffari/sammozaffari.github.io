@@ -6,6 +6,7 @@ module.exports = {
     description: 'Mehran Mozaffari',
     siteUrl: 'https://gatsby-casper.netlify.com', // full path to blog - no ending slash
   },
+  pathPrefix: "/mm",
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
   },
