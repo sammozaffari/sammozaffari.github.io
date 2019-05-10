@@ -5,7 +5,7 @@ import Helmet from 'react-helmet';
 
 import Footer from '../components/Footer';
 import SiteNav from '../components/header/SiteNav';
-import PostCard from '../components/PostCard';
+import PostCard_artworks from '../components/PostCard_artworks';
 import Wrapper from '../components/Wrapper';
 import IndexLayout from '../layouts';
 import config from '../website-config';
@@ -154,7 +154,7 @@ const IndexPage: React.FunctionComponent<IndexProps> = props => {
                 return (
                   (post.node.frontmatter.draft !== true ||
                     process.env.NODE_ENV !== 'production') && (
-                    <PostCard key={post.node.fields.slug} post={post.node} /> 
+                    <PostCard_artworks key={post.node.fields.slug} post={post.node} /> 
                   )
                 );
               })}
@@ -193,7 +193,7 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC },
-      filter: { frontmatter: { draft: { ne: true } } },
+      filter: { frontmatter: { draft: { ne: true }, layout: { eq: "artwork"} } },
       limit: 1000,
     ) {
       edges {
