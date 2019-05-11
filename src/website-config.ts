@@ -1,7 +1,10 @@
 export interface WebsiteConfig {
   title: string;
+  titleArtworks: string;
   description: string;
+  descriptionArtworks: string;
   coverImage: string;
+  coverImageArtworks: string;
   logo: string;
   /**
    * Specifying a valid BCP 47 language helps screen readers announce text properly.
@@ -50,8 +53,11 @@ export interface WebsiteConfig {
 
 const config: WebsiteConfig = {
   title: 'Mehran Mozaffari',
+  titleArtworks: 'Mehran Mozaffari | Artworks',
   description: 'Mehran Mozaffari ...',
+  descriptionArtworks: 'Mehran Mozaffari Artworks',
   coverImage: 'img/blog-cover.jpg',
+  coverImageArtworks: 'img/artworks-cover.png',
   logo: 'img/mehran-logo.png',
   lang: 'en',
   siteUrl: 'https://gatsby-casper.netlify.com',

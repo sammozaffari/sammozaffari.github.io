@@ -11,12 +11,17 @@ tags:
 ---
 
 ![UNTITLED - Mehran Mozaffari Generative Art](./s_045/a01.jpg)
+
 ![UNTITLED - Mehran Mozaffari Generative Art](./s_045/a02.jpg)
-![UNTITLED - Mehran Mozaffari Generative Art](./s_045/a03.jpg)
+
 ![UNTITLED - Mehran Mozaffari Generative Art](./s_045/a04.jpg)
+
 ![UNTITLED - Mehran Mozaffari Generative Art](./s_045/a05.jpg) 
+
 ![UNTITLED - Mehran Mozaffari Generative Art](./s_045/a06.jpg)
+
 ![UNTITLED - Mehran Mozaffari Generative Art](./s_045/a07.jpg)
+
 ![UNTITLED - Mehran Mozaffari Generative Art](./s_045/a08.jpg)
 
 
