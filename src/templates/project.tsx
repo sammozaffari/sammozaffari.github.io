@@ -372,7 +372,7 @@ export const query = graphql`
       }
     }
     relatedPosts: allMarkdownRemark(
-      filter: { frontmatter: { tags: { in: [$primaryTag] }, draft: { ne: true }, layout: { eq: "artwork"} } }
+      filter: { frontmatter: { tags: { in: [$primaryTag] }, draft: { ne: true }, layout: { eq: "project"} } }
       limit: 3
     ) {
       totalCount
