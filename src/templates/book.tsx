@@ -74,7 +74,18 @@ const PostFullMeta = styled.section`
 const PostFullMetaDate = styled.time`
   color: ${colors.blue};
 `;
-
+const BookIsbn = styled.span`
+    display: inline-block;
+    margin: 0 6px 1px;
+`;
+const BookMyRating = styled.span`
+    display: inline-block;
+    margin: 0 6px 1px;
+`;
+const BookBookAuthor = styled.span`
+    display: inline-block;
+    margin: 0 6px 1px;
+`;
 export const PostFullTitle = styled.h1`
   margin: 0;
   color: ${setLightness('0.05', colors.darkgrey)};
@@ -104,6 +115,13 @@ const PostFullImage = styled.figure`
     height: 350px;
   }
 `;
+const BookCoverImage = styled.figure`
+//   margin: 0 -10vw -165px;
+  height: 200px;
+  //background: ${colors.lightgrey} center center;
+  //border-radius: 5px;
+`;
+
 
 const DateDivider = styled.span`
   display: inline-block;
@@ -135,7 +153,10 @@ interface PageTemplateProps {
       frontmatter: {
         title: string;
         date: string;
-        caption: string;
+        isbn: string;
+        bookAuthor: string;
+        summary: string;
+        myRating: string; 
         userDate: string;
         image: {
           childImageSharp: {
@@ -274,6 +295,15 @@ const PageTemplate: React.FunctionComponent<PageTemplateProps> = props => {
                   <PostFullMetaDate dateTime={post.frontmatter.date}>
                     {post.frontmatter.userDate}
                   </PostFullMetaDate>
+                  <BookIsbn>
+                    ISBN: {post.frontmatter.isbn}
+                  </BookIsbn>
+                  <BookMyRating>
+                    How strongly I recommend it:{post.frontmatter.myRating}   
+                  </BookMyRating>
+                  <BookBookAuthor>
+                    Author:{post.frontmatter.bookAuthor} 
+                  </BookBookAuthor>
                   {post.frontmatter.tags &&
                     post.frontmatter.tags.length > 0 && (
                       <>
@@ -286,15 +316,20 @@ const PageTemplate: React.FunctionComponent<PageTemplateProps> = props => {
                 </PostFullMeta>
                 <PostFullTitle>{post.frontmatter.title}</PostFullTitle>
               </PostFullHeader>
-
-              {(post.frontmatter.image && post.frontmatter.image.childImageSharp) && (
+              <BookCoverImage>
+                <Img
+                    style={{ height: '100%' }}
+                    fluid={post.frontmatter.image.childImageSharp.fluid}
+                />
+              </BookCoverImage>
+              {/* {(post.frontmatter.image && post.frontmatter.image.childImageSharp) && (
                 <PostFullImage>
                   <Img
                     style={{ height: '100%' }}
                     fluid={post.frontmatter.image.childImageSharp.fluid}
                   />
                 </PostFullImage>
-              )}
+              )} */}
               <PostContent htmlAst={post.htmlAst} />
 
               {/* The big email subscribe modal content */}
@@ -348,7 +383,10 @@ export const query = graphql`
         userDate: date(formatString: "D MMMM YYYY")
         date
         tags
-        caption
+        summary
+        isbn
+        myRating
+        bookAuthor
         image {
           childImageSharp {
             fluid(maxWidth: 3720) {

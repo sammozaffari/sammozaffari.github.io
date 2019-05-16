@@ -5,6 +5,7 @@ image: ./s_021/a05.png
 author: Mehran Mozaffari
 date: 2014-01-30T07:03:47.149Z
 caption: Mehran Mozaffari Generative Art
+draft: false
 tags: 
   - "Generative design"
   - "Generative art"
