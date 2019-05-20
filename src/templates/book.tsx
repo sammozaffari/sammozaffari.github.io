@@ -86,6 +86,10 @@ const BookBookAuthor = styled.span`
     display: inline-block;
     margin: 0 6px 1px;
 `;
+const BookTags = styled.span`
+    display: inline-block;
+    margin: 0 6px 1px;
+`;
 export const PostFullTitle = styled.h1`
   margin: 0;
   color: ${setLightness('0.05', colors.darkgrey)};
@@ -304,15 +308,21 @@ const PageTemplate: React.FunctionComponent<PageTemplateProps> = props => {
                   <BookBookAuthor>
                     Author:{post.frontmatter.bookAuthor} 
                   </BookBookAuthor>
+                  
                   {post.frontmatter.tags &&
                     post.frontmatter.tags.length > 0 && (
-                      <>
+                        <BookTags>
                         <DateDivider>/</DateDivider>
-                        <Link to={`/tags/${_.kebabCase(post.frontmatter.tags[0])}/`}>
+                        {/* <Link to={`/tags/${_.kebabCase(post.frontmatter.tags[0])}/`}>
                           {post.frontmatter.tags[0]}
-                        </Link>
-                      </>
-                  )}
+                        </Link> */}
+
+                        {post.frontmatter.tags.map((tag) => (
+                            <li key={tag}><Link to={`/tags/${_.kebabCase(tag)}`}>#{ tag }</Link></li>
+                        ))}
+
+                        </BookTags>
+                  )}                
                 </PostFullMeta>
                 <PostFullTitle>{post.frontmatter.title}</PostFullTitle>
               </PostFullHeader>

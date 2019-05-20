@@ -1,17 +1,16 @@
 ---
 layout: book
-title: BOOK1
+title: "Interviewing Users: How to Uncover Compelling Insights"
 image: book-cover-01.png
-link:
+link: 
 isbn: 8713687187
 myRating: 10/10
-bookAuthor: John Doe 
+bookAuthor: Steve Portigal  
 author: Mehran Mozaffari
 draft: false
 date: 2014-01-30T07:03:47.149Z
 summary: Mehran Mozaffari Generative Art
-tags: 
-  - "Design"
+tags: [ 'codesandbox', 'cms', 'gatsby', 'tutorial', 'free' ]
 ---
 
 
