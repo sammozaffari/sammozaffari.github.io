@@ -46,11 +46,15 @@ export const NoImage = css`
 `;
 
 export const PostFullHeader = styled.header`
-  margin: 0 auto;
+// display: flex; 
+ 
+// flex-wrap: wrap;
+// align-items: flex-start;
+margin: 0 auto;
   padding: 6vw 3vw 3vw;
   max-width: 1040px;
   text-align: center;
-
+  
   @media (max-width: 500px) {
     padding: 14vw 3vw 10vw;
   }
@@ -59,7 +63,9 @@ export const PostFullHeader = styled.header`
 const PostFullMeta = styled.section`
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
+  flex-direction: column;
+  flex-wrap: wrap;
   color: ${colors.midgrey};
   font-size: 1.4rem;
   font-weight: 600;
@@ -90,8 +96,13 @@ const BookTags = styled.span`
     display: inline-block;
     margin: 0 6px 1px;
 `;
+const BookLink = styled.span`
+    display: inline-block;
+    margin: 0 6px 1px;
+`;
 export const PostFullTitle = styled.h1`
   margin: 0;
+  text-align:left;
   color: ${setLightness('0.05', colors.darkgrey)};
   @media (max-width: 500px) {
     font-size: 2.9rem;
@@ -121,7 +132,9 @@ const PostFullImage = styled.figure`
 `;
 const BookCoverImage = styled.figure`
 //   margin: 0 -10vw -165px;
-  height: 200px;
+  height: 100%;
+  flex: initial;
+  width: 300px;
   //background: ${colors.lightgrey} center center;
   //border-radius: 5px;
 `;
@@ -162,6 +175,7 @@ interface PageTemplateProps {
         summary: string;
         myRating: string; 
         userDate: string;
+        bookURL: string;
         image: {
           childImageSharp: {
             fluid: any;
@@ -295,6 +309,13 @@ const PageTemplate: React.FunctionComponent<PageTemplateProps> = props => {
             {/* TODO: no-image css tag? */}
             <article css={[PostFull, !post.frontmatter.image && NoImage]}>
               <PostFullHeader>
+              <BookCoverImage>
+                <Img
+                    style={{ height: '100%' }}
+                    fluid={post.frontmatter.image.childImageSharp.fluid}
+                />
+              </BookCoverImage>
+                <PostFullTitle>{post.frontmatter.title}</PostFullTitle>  
                 <PostFullMeta>
                   <PostFullMetaDate dateTime={post.frontmatter.date}>
                     {post.frontmatter.userDate}
@@ -312,26 +333,32 @@ const PageTemplate: React.FunctionComponent<PageTemplateProps> = props => {
                   {post.frontmatter.tags &&
                     post.frontmatter.tags.length > 0 && (
                         <BookTags>
-                        <DateDivider>/</DateDivider>
+                        {/* <DateDivider>/</DateDivider> */}
                         {/* <Link to={`/tags/${_.kebabCase(post.frontmatter.tags[0])}/`}>
                           {post.frontmatter.tags[0]}
                         </Link> */}
 
                         {post.frontmatter.tags.map((tag) => (
-                            <li key={tag}><Link to={`/tags/${_.kebabCase(tag)}`}>#{ tag }</Link></li>
+                            <span key={tag}><Link to={`/tags/${_.kebabCase(tag)}`}>#{ tag } {`  `}</Link></span>
                         ))}
 
                         </BookTags>
-                  )}                
+                  )} 
+                <BookLink>
+                  
+                    <a href={post.frontmatter.bookURL} target="_blank" rel="noopener noreferrer">
+                        Book link  
+                    </a>
+                </BookLink>               
                 </PostFullMeta>
-                <PostFullTitle>{post.frontmatter.title}</PostFullTitle>
+
               </PostFullHeader>
-              <BookCoverImage>
+              {/* <BookCoverImage>
                 <Img
                     style={{ height: '100%' }}
                     fluid={post.frontmatter.image.childImageSharp.fluid}
                 />
-              </BookCoverImage>
+              </BookCoverImage> */}
               {/* {(post.frontmatter.image && post.frontmatter.image.childImageSharp) && (
                 <PostFullImage>
                   <Img
@@ -397,6 +424,7 @@ export const query = graphql`
         isbn
         myRating
         bookAuthor
+        bookURL
         image {
           childImageSharp {
             fluid(maxWidth: 3720) {
