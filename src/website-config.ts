@@ -75,7 +75,7 @@ const config: WebsiteConfig = {
   siteUrl: '',
   facebook: '',
   twitter: 'https://twitter.com/imehr',
-  showSubscribe: true,
+  showSubscribe: false,
   mailchimpAction: '',
   mailchimpName: '',
   mailchimpEmailFieldName: '',

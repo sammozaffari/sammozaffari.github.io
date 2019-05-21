@@ -346,9 +346,12 @@ const PageTemplate: React.FunctionComponent<PageTemplateProps> = props => {
                   )} 
                 <BookLink>
                   
+                    
+                    {`Go to the `} 
                     <a href={post.frontmatter.bookURL} target="_blank" rel="noopener noreferrer">
-                        Book link  
+                        Amazon page 
                     </a>
+                     {` for details and reviews.`}
                 </BookLink>               
                 </PostFullMeta>
 
