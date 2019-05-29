@@ -135,6 +135,7 @@ interface PageTemplateProps {
       frontmatter: {
         title: string;
         date: string;
+        caption: string;
         userDate: string;
         image: {
           childImageSharp: {
@@ -146,18 +147,18 @@ interface PageTemplateProps {
           id: string;
           bio: string;
           avatar: {
-            children: Array<{
+            children: {
               fixed: {
                 src: string;
               };
-            }>;
+            }[];
           };
         };
       };
     };
     relatedPosts: {
       totalCount: number;
-      edges: Array<{
+      edges: {
         node: {
           timeToRead: number;
           frontmatter: {
@@ -167,7 +168,7 @@ interface PageTemplateProps {
             slug: string;
           };
         };
-      }>;
+      }[];
     };
   };
   pageContext: {
@@ -196,11 +197,11 @@ export interface PageContext {
       id: string;
       bio: string;
       avatar: {
-        children: Array<{
+        children: {
           fixed: {
             src: string;
           };
-        }>;
+        }[];
       };
     };
   };
@@ -330,7 +331,7 @@ export default PageTemplate;
 
 export const query = graphql`
   query($slug: String, $primaryTag: String) {
-    logo: file(relativePath: { eq: "img/smoz-logo.png" }) {
+    logo: file(relativePath: { eq: "img/ghost-logo.png" }) {
       childImageSharp {
         fixed {
           ...GatsbyImageSharpFixed
@@ -347,6 +348,7 @@ export const query = graphql`
         userDate: date(formatString: "D MMMM YYYY")
         date
         tags
+        caption
         image {
           childImageSharp {
             fluid(maxWidth: 3720) {
@@ -370,7 +372,7 @@ export const query = graphql`
       }
     }
     relatedPosts: allMarkdownRemark(
-      filter: { frontmatter: { tags: { in: [$primaryTag] }, draft: { ne: true } } }
+      filter: { frontmatter: { tags: { in: [$primaryTag] }, draft: { ne: true }, layout: { eq: "place"} } }
       limit: 3
     ) {
       totalCount

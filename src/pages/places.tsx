@@ -135,13 +135,13 @@ const IndexPage: React.FunctionComponent<IndexProps> = props => {
                   <img
                     style={{ maxHeight: '72px' }}
                     src={props.data.logo.childImageSharp.fixed.src}
-                    alt={config.titleProjects}
+                    alt={config.titleArtworks}
                   />
                 ) : (
-                  config.titleProjects
+                  config.titleArtworks
                 )}
               </SiteTitle>
-              <SiteDescription>{config.descriptionProjects}</SiteDescription>
+              <SiteDescription>{config.descriptionArtworks}</SiteDescription>
             </SiteHeaderContent>
             <SiteNav isHome />
           </div>
@@ -182,7 +182,7 @@ export const pageQuery = graphql`
         }
       }
     }
-    header: file(relativePath: { eq: "img/projects-cover.png" }) {
+    header: file(relativePath: { eq: "img/places-cover.jpg" }) {
       childImageSharp {
         # Specify the image processing specifications right in the query.
         # Makes it trivial to update as your page's design changes.
@@ -193,7 +193,7 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC },
-      filter: { frontmatter: { draft: { ne: true }, layout: { eq: "project"} } },
+      filter: { frontmatter: { draft: { ne: true }, layout: { eq: "place"} } },
       limit: 1000,
     ) {
       edges {

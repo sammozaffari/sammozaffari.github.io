@@ -2,8 +2,8 @@ const path = require('path');
 
 module.exports = {
   siteMetadata: {
-    title: 'Mehran Mozaffari',
-    description: 'Mehran Mozaffari',
+    title: 'Sam Mozaffari',
+    description: 'Sam Mozaffari',
     siteUrl: 'https://gatsby-casper.netlify.com', // full path to blog - no ending slash
   },
   pathPrefix: "/mm",

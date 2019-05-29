@@ -37,7 +37,7 @@ const About: React.FunctionComponent = () => (
           <PostFullContent className="post-full-content">
             <div className="post-content">
               <p>
-              This is a weblog, journal and personal reference tool, updated infrequently, published by me, Mehran Mozaffari.
+              This is a weblog, journal and personal reference tool, updated infrequently, published by me, Sam Mozaffari.
               </p>
               
             </div>
