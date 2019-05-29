@@ -5,6 +5,7 @@ author: Sam Mozaffari
 image: ./images/BP_11.jpg
 date: "2012-08-20T15:11:55.000Z"
 draft: false
+caption: ""
 tags: 
   - "Australia"
   - "NSW"

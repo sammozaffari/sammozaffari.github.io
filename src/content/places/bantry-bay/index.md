@@ -4,8 +4,8 @@ title: Bantry bay
 author: Sam Mozaffari
 image: ./images/bb3.jpg
 date: "2012-08-20T15:11:55.000Z"
-
 draft: false
+caption: ""
 tags: 
   - "Australia"
   - "NSW"
