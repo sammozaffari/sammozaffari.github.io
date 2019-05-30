@@ -133,7 +133,7 @@ const IndexPage: React.FunctionComponent<IndexProps> = props => {
               <SiteTitle>
                 {props.data.logo ? (
                   <img
-                    style={{ maxHeight: '72px' }}
+                    style={{ maxHeight: '92px' }}
                     src={props.data.logo.childImageSharp.fixed.src}
                     alt={config.title}
                   />

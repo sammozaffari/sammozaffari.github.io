@@ -62,7 +62,7 @@ const config: WebsiteConfig = {
   titleArtworks: 'Sam Mozaffari | Places',
   titleProjects: 'Sam Mozaffari | Projects',
   titleBooks: 'Sam Mozaffari | Books',
-  description: 'Sam Mozaffari ...',
+  description: '',
   descriptionArtworks: 'Sam Mozaffari Artworks',
   descriptionProjects: 'Sam Mozaffari Projects',
   descriptionBooks: 'Sam Mozaffari Books',
