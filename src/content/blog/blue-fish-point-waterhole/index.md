@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A swim in the Never Never Creek 
+title: Blue fish point waterhole 
 author: Sam Mozaffari
 image: ./images/4.jpg
 date: "2016-12-16T15:11:55.000Z"
