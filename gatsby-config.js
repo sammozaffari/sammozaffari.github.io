@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Sam Mozaffari',
     description: 'Sam Mozaffari',
-    siteUrl: 'https://gatsby-casper.netlify.com', // full path to blog - no ending slash
+    siteUrl: 'https://sammozaffari.github.io', // full path to blog - no ending slash
   },
   pathPrefix: "/",
   mapping: {
@@ -48,7 +48,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: 'https://gatsby-casper.netlify.com',
+        siteUrl: 'https://sammozaffari.github.io/',
       },
     },
     'gatsby-plugin-emotion',
@@ -66,7 +66,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: 'UA-XXXX-Y',
+        trackingId: 'UA-141501349-1',
         // Puts tracking script in the head instead of the body
         head: true,
         // IP anonymization for GDPR compliance
