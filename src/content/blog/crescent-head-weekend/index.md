@@ -12,7 +12,7 @@ tags:
   - "Crescent Head"
   - "Surfing"
   - "Cyclone"
-  - "Road trip" 
+  - "Road trip"
 ---
 
 
