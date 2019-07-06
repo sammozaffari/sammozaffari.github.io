@@ -10,6 +10,9 @@ tags:
   - "Australia"
   - "NSW"
   - "Warriewood"
+  - "Snorkel"
+  - "Diving"
+  - "Dive"
 ---
 
 The waves were flat and the weather was nice and sunny so Joe and I decided that we should swim through the Warriwood blowhole and see if we can get some cool shots.
