@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Abandoned farmhouses on Bruny Island
+title: Curl Curl snorkel
 author: Sam Mozaffari
 image: ./images/7.jpg
 date: "2019-06-14T15:11:55.000Z"
