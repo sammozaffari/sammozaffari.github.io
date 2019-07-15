@@ -76,4 +76,5 @@ Lining up for a tube down the line.
 
 Check out a short video I created of the day and subscribe to my Youtube channel if you want to see more.
 
-`youtube.com/watch?v=q8NEXGP7Oow` 
+
+`youtube: q8NEXGP7Oow`
