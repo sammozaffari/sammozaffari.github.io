@@ -51,3 +51,7 @@ More smaller bream. I think my housing port had fogged up by this stage.
 ![](./images/9.jpg)
 
 Exhausted.
+
+A short video of our swim.
+
+`youtube: baNttPiyWpQ`

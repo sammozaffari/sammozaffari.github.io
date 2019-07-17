@@ -74,3 +74,7 @@ I thought no colour suited this image well.
 ![](./images/26.jpg)
 
 Darkness in the middle of the cave
+
+A short fim I made of our day mixed with some footage of fairy bower.
+
+`youtube: oRte9sgaz-k`
