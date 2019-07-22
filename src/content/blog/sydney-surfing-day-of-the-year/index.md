@@ -11,6 +11,7 @@ tags:
   - "NSW"
   - "Narrabeen"
   - "Surfing"
+  - "Video"
 ---
 
 
