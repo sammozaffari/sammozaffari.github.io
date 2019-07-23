@@ -18,4 +18,4 @@ tags:
 
 One of the nicest waves at the Bombie, the day after the best waves of the century in NSW.
 
-`youtube: baNttPiyWpQ`
+`youtube: bQo0kl7mQyc`
