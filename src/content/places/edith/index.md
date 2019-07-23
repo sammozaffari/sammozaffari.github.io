@@ -3,7 +3,7 @@ layout: place
 title: Edith
 author: Sam Mozaffari
 image: ./images/28.jpg
-date: "2019-03-20"
+date: "2019-03-20T15:11:55.000Z"
 draft: false
 caption: ""
 tags: 

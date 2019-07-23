@@ -57,7 +57,7 @@ A more narrow view taken when a wave was inside the blowhole, the roof seemed mu
 
 ![](./images/15.jpg)
 
-You can see how cool the cave really is from this under over angle. Pretty deep and almost mirroring the randomness of the roof structure
+You can see how cool the cave really is from this under over angle. Pretty deep and almost mirroring the randomness of the roof structure.
 
 ![](./images/19.jpg)
 
@@ -73,7 +73,7 @@ I thought no colour suited this image well.
 
 ![](./images/26.jpg)
 
-Darkness in the middle of the cave
+Darkness in the middle of the cave.
 
 A short fim I made of our day mixed with some footage of fairy bower.
 

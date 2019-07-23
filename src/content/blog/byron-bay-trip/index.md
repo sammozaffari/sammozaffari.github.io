@@ -3,7 +3,7 @@ layout: post
 title: Byron Bay trip 
 author: Sam Mozaffari
 image: ./images/20.jpg
-date: "2019-02-22T15:11:55.000Z"
+date: "2018-01-01T15:11:55.000Z"
 draft: false
 caption: ""
 tags: 
@@ -16,7 +16,7 @@ tags:
 ---
 
 
-Here is a small collection of photos from Byron bay a couple of years ago. Excuse the colouring, I didn't really know how to edit photos back then.-
+Here is a small collection of photos from Byron bay a couple of years ago. Excuse the colouring, I didn't really know how to edit photos back then.
 
 ![](./images/3.jpg)
 

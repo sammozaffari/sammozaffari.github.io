@@ -13,6 +13,7 @@ tags:
   - "Northern beaches"
   - "Surfing"
   - "Wave"
+  - "Video"
 ---
 
 
