@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Albino wallaby Bruny Island
+title: Abandoned farm in Tasmania 
 author: Sam Mozaffari
 image: ./images/4.jpg
 date: "2018-12-21T15:11:55.000Z"
@@ -9,27 +9,30 @@ caption: ""
 tags: 
   - "Australia"
   - "Tasmania"
-  - "Road trip"
-  - "Bruny island"
+  - "Bruny Island"
+  - "Wallaby"
+  - "Road trip" 
 ---
 
 
-I found the elusive bruny island albino wallaby in a paddock while searching to no avail. You could say I was pretty stoked. I think they were all cuter than the ones we see in NSW too.
+I had heard about the elusive albino wallabies on Bruny Island, so on our first afternoon there we went hunting so see if we could find any. 
+
+After getting some pointers from the grocery store owner, we headed down near the picnic area and sure enough, bright as day there was a cute little albino wallaby with its brown friend.
 
 ![](./images/1.jpg)
 
-So bright
+About as cute as it gets. One of them is giving me an inquisitive stare.
+
 
 ![](./images/2.jpg)
 
-A wider view.
+A better angle. This time the white one is looking straight at me.
 
 
 ![](./images/3.jpg)
 
-A tasmania padelomon, so fluffy.
+This one hopped over towards me, it's proportions were so funny. Definetely one of the chunkiest and well fed wallabies I've seen.
 
 ![](./images/4.jpg)
 
-Little fella was starting at me with curiosity too.
-
+Lil fella chilling alone.
