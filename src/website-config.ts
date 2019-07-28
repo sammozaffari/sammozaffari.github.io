@@ -2,11 +2,11 @@ export interface WebsiteConfig {
   title: string;
   titleArtworks: string;
   titleProjects: string;
-  titleBooks: string;
+  titleBlog: string;
   description: string;
   descriptionArtworks: string;
   descriptionProjects: string;
-  descriptionBooks: string;
+  descriptionBlog: string;
   coverImage: string;
   coverImageArtworks: string;
   coverImageProjects: string;
@@ -61,11 +61,11 @@ const config: WebsiteConfig = {
   title: 'Sam Mozaffari',
   titleArtworks: 'Sam Mozaffari | Places',
   titleProjects: 'Sam Mozaffari | Projects',
-  titleBooks: 'Sam Mozaffari | Books',
+  titleBlog: 'Sam Mozaffari | Blog',
   description: '',
-  descriptionArtworks: 'Sam Mozaffari Artworks',
+  descriptionArtworks: 'Sam Mozaffari Places',
   descriptionProjects: 'Sam Mozaffari Projects',
-  descriptionBooks: 'Sam Mozaffari Books',
+  descriptionBlog: 'Sam Mozaffari Blog',
   coverImage: 'img/blog-cover.jpg',
   coverImageArtworks: 'img/places-cover.jpg',
   coverImageProjects: 'img/projects-cover.png',

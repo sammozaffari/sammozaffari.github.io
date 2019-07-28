@@ -135,13 +135,13 @@ const IndexPage: React.FunctionComponent<IndexProps> = props => {
                   <img
                     style={{ maxHeight: '72px' }}
                     src={props.data.logo.childImageSharp.fixed.src}
-                    alt={config.titleArtworks}
+                    alt={config.titleBlog}
                   />
                 ) : (
-                  config.titleArtworks
+                  config.titleBlog
                 )}
               </SiteTitle>
-              <SiteDescription>{config.descriptionArtworks}</SiteDescription>
+              <SiteDescription>{config.descriptionBlog}</SiteDescription>
             </SiteHeaderContent>
             <SiteNav isHome />
           </div>
