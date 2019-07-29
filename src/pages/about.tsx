@@ -37,7 +37,7 @@ const About: React.FunctionComponent = () => (
           <PostFullContent className="post-full-content">
             <div className="post-content">
               <p>
-              I'm Sam Mozaffari, 18 years old from Sydney, Australia. This website is a visual journal of all the things I do, the places I go and the things I make, through the lens of my camera or my mind. In my spare time I enjoy surfing, woodworking, design, photography and bike riding. Follow me on my journey through life, my travels, my designs, my experiences.
+              I'm Sam Mozaffari, 18 years old from Sydney, Australia. This website is a visual journal of all the things I do, the places I go and the things I make, through the lens of my camera or my mind. In my spare time I enjoy surfing, woodworking, design, photography, playing guitar, skating and bike riding. Follow me on my journey through life, my travels, my designs, my experiences.
               </p>
               
             </div>
