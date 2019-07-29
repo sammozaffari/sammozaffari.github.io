@@ -26,6 +26,7 @@
 <url> <loc>https://sammozaffari.github.io/blog/turrimetta-and-manly/index/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/blog/warriewood/index/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/blog/dee-why-session/index/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sammozaffari.github.io/projects/diy-ebike/index/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/blog/curl-curl-snorkel/index/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/blog/narrabeen-ese-swell/index/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/blog/narrabeen-se-swell/index/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -58,6 +59,7 @@
 <url> <loc>https://sammozaffari.github.io/tags/abandoned/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/tags/bruny-island/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/tags/fog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sammozaffari.github.io/tags/wallaby/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/tags/douglas-apsley-national-park/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/tags/cradle-mountain/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/tags/cyclone/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -80,6 +82,12 @@
 <url> <loc>https://sammozaffari.github.io/tags/diving/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/tags/dive/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/tags/dee-why/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sammozaffari.github.io/tags/mtb/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sammozaffari.github.io/tags/bike/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sammozaffari.github.io/tags/diy/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sammozaffari.github.io/tags/electric-bike/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sammozaffari.github.io/tags/ebike/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sammozaffari.github.io/tags/project/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/tags/curl-curl/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/tags/spearfishing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/tags/west-head/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -92,4 +100,5 @@
 <url> <loc>https://sammozaffari.github.io/blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/places/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sammozaffari.github.io/projects/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
