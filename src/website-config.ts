@@ -10,7 +10,7 @@ export interface WebsiteConfig {
   coverImage: string;
   coverImageArtworks: string;
   coverImageProjects: string;
-  coverImageBooks: string;
+  coverImageBlog: string;
   logo: string;
   /**
    * Specifying a valid BCP 47 language helps screen readers announce text properly.
@@ -66,10 +66,10 @@ const config: WebsiteConfig = {
   descriptionArtworks: 'Sam Mozaffari Places',
   descriptionProjects: 'Sam Mozaffari Projects',
   descriptionBlog: 'Sam Mozaffari Blog',
-  coverImage: 'img/blog-cover.jpg',
+  coverImage: 'img/home-cover.jpg',
   coverImageArtworks: 'img/places-cover.jpg',
   coverImageProjects: 'img/projects-cover.png',
-  coverImageBooks: 'img/books-cover.png',
+  coverImageBlog: 'img/blog-cover.jpg',
   logo: 'img/smoz-logo.png',
   lang: 'en',
   siteUrl: '',
