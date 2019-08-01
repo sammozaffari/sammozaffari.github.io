@@ -99,7 +99,11 @@ Inside the second alpine hut. A lot of weird things in there.
 
 More orange bois.
 
+A drone video from Jacob's Ladder.
+`youtube: EK5GDG5G_ig`
 
+A timelapse of some trail walking.
+`youtube: CNy-YPPTjQo`
 
 
 
