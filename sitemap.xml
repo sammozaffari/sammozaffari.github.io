@@ -7,6 +7,7 @@
 <url> <loc>https://sammozaffari.github.io/blog/crescent-head-afternoon/index/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/blog/a-swim-in-the-never-never-creek/index/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/blog/byron-bay-trip/index/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sammozaffari.github.io/projects/major-work/index/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/blog/meroo-head/index/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/blog/north-head-campground-murramarang/index/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/blog/wolumla-peak/index/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -66,6 +67,12 @@
 <url> <loc>https://sammozaffari.github.io/tags/never-never-creek/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/tags/byron-bay/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/tags/waterfall/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sammozaffari.github.io/tags/diy/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sammozaffari.github.io/tags/major-project/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sammozaffari.github.io/tags/3-d-printing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sammozaffari.github.io/tags/cad/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sammozaffari.github.io/tags/project/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sammozaffari.github.io/tags/furniture/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/tags/south-coast/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/tags/meroo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/tags/murramarang/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -115,16 +122,12 @@
 <url> <loc>https://sammozaffari.github.io/tags/dee-why/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/tags/mtb/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/tags/bike/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://sammozaffari.github.io/tags/diy/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/tags/electric-bike/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/tags/ebike/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://sammozaffari.github.io/tags/project/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/tags/surfboard/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/tags/shaping/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://sammozaffari.github.io/tags/cad/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/tags/didgeridoo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/tags/pvc/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://sammozaffari.github.io/tags/3-d-printing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/tags/planter/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/tags/curl-curl/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sammozaffari.github.io/tags/spearfishing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
