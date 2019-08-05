@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Abandoned farm in Tasmania 
+title: Albino wallaby Bruny Islanc
 author: Sam Mozaffari
 image: ./images/4.jpg
 date: "2018-12-21T15:11:55.000Z"

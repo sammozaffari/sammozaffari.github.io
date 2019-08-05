@@ -119,3 +119,132 @@ Aerial view #1
 ![ ](./images/bb18.jpg)
 
 Aerial view #2
+
+![ ](./images/19.jpg)
+
+A rusty door handle on one of the buildings.
+
+![ ](./images/20.jpg)
+
+This one could almost be a cabin.
+
+![ ](./images/21.jpg)
+
+Some odd looking supports in the bricks.
+
+![ ](./images/22.jpg)
+
+Double rainbow on a stormy evening.
+
+![ ](./images/23.jpg)
+
+Probably the best light I've ever seen.
+
+![ ](./images/24.jpg)
+
+When in year 11.
+
+![ ](./images/25.jpg)
+
+Josh.
+
+![ ](./images/26.jpg)
+
+Following the train tracks back to the start of the track.
+
+![ ](./images/27.jpg)
+
+Dad through one of the doorways.
+
+![ ](./images/28.jpg)
+
+Mum.
+
+
+![ ](./images/30.jpg)
+
+Looking towards the far end of the bay.
+
+
+![ ](./images/31.jpg)
+
+I really want to get inside this building. One day.
+
+![ ](./images/32.jpg)
+
+Details in the rust of the building doors.
+
+
+
+![ ](./images/35.jpg)
+
+The mangrove pneumatophores are very sharp and covered in mud.
+
+
+![ ](./images/36.jpg)
+
+The shallows at a lower tide. Could probably catch some flathead here.
+
+![ ](./images/37.jpg)
+
+Interesting builings.
+
+![ ](./images/38.jpg)
+
+Perfect place for an Airbnb.
+
+![ ](./images/39.jpg)
+
+Wooden beams supporting what was once a tin roof I assume.
+
+
+![ ](./images/40.jpg)
+
+Train tracks for the goods transport.
+
+![ ](./images/41.jpg)
+
+Juxtaposition.
+
+![ ](./images/42.jpg)
+
+Rusted iron windows.
+
+![ ](./images/43.jpg)
+
+The blue graffiti on the bottom is why the council don't want people to come here. So annoying.
+
+![ ](./images/45.jpg)
+
+Old water tank of some sort.
+
+![ ](./images/46.jpg)
+
+Wood and rust.
+
+![ ](./images/47.jpg)
+
+Would have no magnetism.
+
+
+![ ](./images/49.jpg)
+
+Interesting windows and door latches.
+
+
+![ ](./images/51.jpg)
+
+Another one.
+
+![ ](./images/52.jpg)
+
+me.
+
+![ ](./images/53.jpg)
+
+My favourite building of all of them.
+
+![ ](./images/54.jpg)
+
+The ferns in a shadowy area of the building.
+
