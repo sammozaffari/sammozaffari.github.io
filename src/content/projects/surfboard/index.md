@@ -61,4 +61,52 @@ The blank I'll be using from surfblanks australia.
 
 The template I'll be cuting out onto mdf and then tracing onto the blank.
 
+![](./images/12.jpg)
+
+The template cut out.
+
+![](./images/13.jpg)
+
+Starting to hack away at it.
+
+![](./images/14.jpg)
+
+The tail.
+
+![](./images/15.jpg)
+
+Kinda fucked this bit up. The tail isn't straight.
+
+![](./images/16.jpg)
+
+One half of the board done.
+
+![](./images/17.jpg)
+
+Simple tool I made for making sure the rails are square.
+
+![](./images/18.jpg)
+
+Mostly all done now. I just have to fix the tail up.
+
+![](./images/19.jpg)
+
+Not for removing all the crap off the top of the blank.
+
+![](./images/20.jpg)
+
+Done! The foam under the top layer was much softer.
+
+![](./images/21.jpg)
+
+Some strange rocker I've created.
+
+
+Next up is an important paprt of the shaping process; making railbands. Because I'd already fluked enough of the board, I decided I wanted to try do the railbands properly. I printed out of the outline of the board with the railband dimensions based roughly off Greenlight Surf Supply's guidelines. Now to figure out how to apply these to the board. Also, I think that the board I've made has gone slightly skinnier in width than the original outline, which might be a problem when trying to copy the lines onto the board.
+
+![](./images/22.jpg)
+
+Railbands.
+
+
 
