@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Sam Mozaffari]]></title><description><![CDATA[Sam Mozaffari]]></description><link>https://sammozaffari.github.io</link><generator>RSS for Node</generator><lastBuildDate>Tue, 20 Aug 2019 06:08:52 GMT</lastBuildDate><item><title><![CDATA[Chunky Narrabeen]]></title><description><![CDATA[We saw a long-ish period 4-6ft south swell on the forecast and thought it might be good to take the jetski out. It ended up being smaller…]]></description><link>https://sammozaffari.github.io/blog/narrabeen-closeouts/index/</link><guid isPermaLink="false">https://sammozaffari.github.io/blog/narrabeen-closeouts/index/</guid><pubDate>Mon, 05 Aug 2019 15:11:55 GMT</pubDate><content:encoded>&lt;p&gt;We saw a long-ish period 4-6ft south swell on the forecast and thought it might be good to take the jetski out. It ended up being smaller, and the jetski unfortunately broke down out near the narrabeen carparks. After three hours of paddling the jetski into fishermans beach, it was eventually in.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Sam Mozaffari]]></title><description><![CDATA[Sam Mozaffari]]></description><link>https://sammozaffari.github.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 29 Aug 2019 09:33:33 GMT</lastBuildDate><item><title><![CDATA[Chunky Narrabeen]]></title><description><![CDATA[We saw a long-ish period 4-6ft south swell on the forecast and thought it might be good to take the jetski out. It ended up being smaller…]]></description><link>https://sammozaffari.github.io/blog/narrabeen-closeouts/index/</link><guid isPermaLink="false">https://sammozaffari.github.io/blog/narrabeen-closeouts/index/</guid><pubDate>Mon, 05 Aug 2019 15:11:55 GMT</pubDate><content:encoded>&lt;p&gt;We saw a long-ish period 4-6ft south swell on the forecast and thought it might be good to take the jetski out. It ended up being smaller, and the jetski unfortunately broke down out near the narrabeen carparks. After three hours of paddling the jetski into fishermans beach, it was eventually in.&lt;/p&gt;
 &lt;p&gt;&lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/static/7b8d9bce97daa9f381a4feef79fec7f0/396f2/1.jpg&quot;
@@ -3740,323 +3740,7 @@ Too many people out. This is only 1/4 of the crew.&lt;/p&gt;
       /&gt;
   &lt;/span&gt;
   &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Weapon.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Making a surfboard]]></title><description><![CDATA[This post will be my visual journal while I am working on making my first foam and fibreglass surfboard. I’m going to be posting everything…]]></description><link>https://sammozaffari.github.io/projects/surfboard/index/</link><guid isPermaLink="false">https://sammozaffari.github.io/projects/surfboard/index/</guid><pubDate>Sat, 01 Jun 2019 15:11:55 GMT</pubDate><content:encoded>&lt;p&gt;This post will be my visual journal while I am working on making my first foam and fibreglass surfboard. I’m going to be posting everything in here, including my production process, any inevitable mistakes I make and any things I learn from the experience. I’m hoping I can make a cool board if I do everything right.&lt;/p&gt;
-&lt;p&gt;The first step was to design the board on Shape3DX to get accurate dimensions and measurements for the rocker, thickness and finbox locations.&lt;/p&gt;
-&lt;p&gt;&lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/1e84ac2a196c2d117aae65364bed0ab9/a9a05/1.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 52.12840195394277%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAABYlAAAWJQFJUiTwAAABK0lEQVQoz4WSiW7EIAxE+f8vTbvKBQnhSqifCZF2VbVII3OMh8HYjONUt22r3vu677vCWqtYV4HEZVll3mE1kgP3OI4aQtA4z3M1Jed6nmfNOQnBS7LVw5RSLaUoUspyXup1ncq9rkvWWYSicIPOGZwZ55y6izFK8ikxKwGhntwF28X57aIQkhrojt8EIadUVITkLhpj0mTmfb+UrHsYiDFoiRA1vB8xsG27ogk3J4jjHHw65LneH+qQNRoGd81+UrAGkAAkkgDz/gGfdX4EOfhv4BL8NR5B3j4Mg375six1mqanbQBuqQ21JvZ91tY6ndN65MM1/EwnjuMo4l830WnP0Ur03TTNt5j7Fb2XDa76p1Bw2iNKbRSxgX7jPN17LbY9DH2/XmqES38AWDsLjXNpIcQAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-    &gt;&lt;/span&gt;
-    &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;1&quot;
-        title=&quot;&quot;
-        src=&quot;/static/1e84ac2a196c2d117aae65364bed0ab9/913fc/1.png&quot;
-        srcset=&quot;/static/1e84ac2a196c2d117aae65364bed0ab9/bc34b/1.png 293w,
-/static/1e84ac2a196c2d117aae65364bed0ab9/da9f0/1.png 585w,
-/static/1e84ac2a196c2d117aae65364bed0ab9/913fc/1.png 1170w,
-/static/1e84ac2a196c2d117aae65364bed0ab9/efb0c/1.png 1755w,
-/static/1e84ac2a196c2d117aae65364bed0ab9/79b58/1.png 2340w,
-/static/1e84ac2a196c2d117aae65364bed0ab9/a9a05/1.png 2866w&quot;
-        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
-      /&gt;
-  &lt;/span&gt;
-  &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The finished board in imperial measurement. I think if I can follow this guide properly then the board should come out pretty good.&lt;/p&gt;
-&lt;p&gt;&lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/e437f2a43656744b6bcf7b2362384f22/0f7e1/3.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 50.03472222222223%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAABYlAAAWJQFJUiTwAAABLElEQVQoz6WS246GIAyEff8XNfGMKAdRu3zl7+5ebrImk5ZahmFoNwyDnOcpIQTFcRyy77t472v0Ne7i3P6ptQjooz+lJDlnjfM8SwcZXymlNp0yTbM23Pf9jesCRfPneeR9X81TakTXdSkHebeuq2zbpifyI+VLyW0zyLUGKXk7oPVQjzGpUuecooOMK8QYazMbXlXwG6Xc+o/cSInUUY4ys6LDK1VWi1zZOV83FFVgyLmpMeWQk4cQVR1iWMcYmsJ2WlHvzGAzG7CRq9kaArs2MGsg77j3fz9UN8Ufwr7vZRwnfZx5XvSBABMAGBussbX3xyd6WZZVYQ9bX3lT5vMMSjYMo86fU5O9bqZOHznYNqdkRAT9zG19FAYbP/DGfCH+FYhhoOFZlkW+ANyFCtGSpIpaAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-    &gt;&lt;/span&gt;
-    &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;3&quot;
-        title=&quot;&quot;
-        src=&quot;/static/e437f2a43656744b6bcf7b2362384f22/913fc/3.png&quot;
-        srcset=&quot;/static/e437f2a43656744b6bcf7b2362384f22/bc34b/3.png 293w,
-/static/e437f2a43656744b6bcf7b2362384f22/da9f0/3.png 585w,
-/static/e437f2a43656744b6bcf7b2362384f22/913fc/3.png 1170w,
-/static/e437f2a43656744b6bcf7b2362384f22/efb0c/3.png 1755w,
-/static/e437f2a43656744b6bcf7b2362384f22/79b58/3.png 2340w,
-/static/e437f2a43656744b6bcf7b2362384f22/0f7e1/3.png 2880w&quot;
-        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
-      /&gt;
-  &lt;/span&gt;
-  &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The round squash performer but this time in metric measurement, which I’ll be using most of the time. &lt;/p&gt;
-&lt;p&gt;&lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/80809665824cba2543d26f661fff1025/10714/4.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 69.71014492753623%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAABYlAAAWJQFJUiTwAAAB4ElEQVQ4y4VT7XaCMAzl/R9re4LNfQjqJqigUhRby0cRs9507WE/tnFODqS9uclNQhTHMe33e9rtdmzH45Hquqbz+Rzel8uFbXruzftlWVKaphSB4L8HmPV6TV3X/Ym73W4UoTo84ziy3e/3ADDG0Ol0YsI0XbMSKWW4B3Yag4SBcAoC0TAMDAChlwx51+uV7/q+Z7Lp84OwbVsOyLItk6AvSrlgYwbSuudvrTVXCWK8pVR87hUxIRoKU0pZMmkBt1DlMBgmlrJhH31CJX3fWVJt2yAoz3dUFAUXEmGyee6cpmktcAxyEQxZTdNYyTokgA9FbdvxuVKSVqsVbbdbVyEuIVHrxmYq2UcvXUWwkdrOVQfDHRICL8SZWwV1aEOEUpERvUGVRbFn8qqqvnskqRTCBp44CAYCnGNQeGNAiGdCVIiFzPOcAV4uSF0fTRgCfBhwwKAQX0SSJBzDi51lGc1mLzSPE3p4eKT5fEGLxYftyye9v8f09PTM9y+vbzZwScvlh7WVxSX2bsbfm83GEfrK3Bo4ScgOH/3CytQ15CkrzXyvkGaMXzVgsSXg4SkL2yNU6g/d7hn20cuqEhzsJUMqJiq4t4ITIDn38HA4hF8P05v+eiDDPaRMf7nf8BjOF28bMl1opbkBAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-    &gt;&lt;/span&gt;
-    &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;4&quot;
-        title=&quot;&quot;
-        src=&quot;/static/80809665824cba2543d26f661fff1025/913fc/4.png&quot;
-        srcset=&quot;/static/80809665824cba2543d26f661fff1025/bc34b/4.png 293w,
-/static/80809665824cba2543d26f661fff1025/da9f0/4.png 585w,
-/static/80809665824cba2543d26f661fff1025/913fc/4.png 1170w,
-/static/80809665824cba2543d26f661fff1025/10714/4.png 1380w&quot;
-        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
-      /&gt;
-  &lt;/span&gt;
-  &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;This is another helpful summary, giving me length, width, thickness and volume. The board should hopefully come out a little less than 28.5L.&lt;/p&gt;
-&lt;p&gt;&lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/f84875d752b91bf0a347927e0f109211/0f7e1/5.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 59.236111111111114%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAACNUlEQVQoz21TTW/aQBD1b08PSNADEhJwb3tpe0GgHJK0inroqYoSNYEmJQZ/f/JhGxt7be/r7Bq3Eqqlp515O/N29smrPM4XmC+e8DT/jR8/Vdw/vuDugbhnFc9LHUvVwFq3oRk2dNOBabsSthvA8UJopg9Nc7A2PBh2AOV1ZdAmFTgu/GAD3XBgmDYc14fleMSFWFGDpltU48P3Q3iej+12j30UY7PdwbQ8mE5I2EDJsgztV1YlyprAS7CayVisFRdcJXnBVRRzzpsmCvww4pYbQbMjrhwOB1QkxEoGIV4UBcqylOJVXTWHVBXVtHFTe2RHFGXBRbzZJdgnJY8ODMp+v0NxzGTD/z4xSYu6rsHrU15zLnpImN/dP/DrL7e4/fadK0mS0ERMniymY4zJxrqq/61tTJCT0g1yliMrMgj52WzG31xcoN/vcyVND3KSmtfIixysYuRb4905pIcnSB/RGHl1dY1er8fH4zEUP/BwPB6Rpqn0UHgaxTHipEEUR4jbnFZxo/SQynqBgm50eXnJu90uRqMRFNuy6RfYYrfbyQYh2BanaYYkTk5cJjkRC1FR7wcBoijCdDoVE2I4HEIxLeuvmJg0z3PpZYvzvKA8z5sbeSQo+shDEnzbTKjphpwwoE3P9+WpAiIPw43kgjCUaPfEj+24Hu2HUnAymaDT6WAwGED5tXiBYZj0Qix6Zhq9ChMrehXrM6x0U0JdG1A1wkrD8lWFTtzNzVe8e/8BHz99xh8ZIX/1lQXy/QAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
-    &gt;&lt;/span&gt;
-    &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;5&quot;
-        title=&quot;&quot;
-        src=&quot;/static/f84875d752b91bf0a347927e0f109211/913fc/5.png&quot;
-        srcset=&quot;/static/f84875d752b91bf0a347927e0f109211/bc34b/5.png 293w,
-/static/f84875d752b91bf0a347927e0f109211/da9f0/5.png 585w,
-/static/f84875d752b91bf0a347927e0f109211/913fc/5.png 1170w,
-/static/f84875d752b91bf0a347927e0f109211/efb0c/5.png 1755w,
-/static/f84875d752b91bf0a347927e0f109211/79b58/5.png 2340w,
-/static/f84875d752b91bf0a347927e0f109211/0f7e1/5.png 2880w&quot;
-        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
-      /&gt;
-  &lt;/span&gt;
-  &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;This view shows the bottom contours and vee.&lt;/p&gt;
-&lt;p&gt;&lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/c5a573694a068c6025e196e077ef0e4f/85a00/6.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 49.73637961335676%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAABYlAAAWJQFJUiTwAAABdElEQVQoz61Sy2rCQBTN/xMrNDWJ2EQDCkqImidqNS/R6sKVK/duhApCXVgTPZ0ZTZqW7tqBw537Onceh7ter6CL2gyXy4UhTdN8n/nFWLGHrjRNwFGHFv1lZf2MMI8S4sPhgO12i9VqhdlshjiOEYZhjiiKMJ1OMZ/PsdlssN/vkSRJTnE+f4CjgeVyCdM0oes6DMPAZOIjJM1BEDBQoujuM2IyyPM8Vu84DhvwfjwyUo4mqlUZo+EQ4b0hCHyGmx982WzPhoTktDEm4zEhtVFXVbwSYo465YcSzH4PlknRh+tY8FyHWBu2ZeZwbIvFaI76tLZr6GjUVZRLPKLQB3c6neD7Pmq1Z/A8j0qlAlGU8CgIkGUZqlqHpmloNDQoikJyIgThCZIksXqRWNf18Ebek105e1AqA/op6/WaXXswGKDX7aLdbqPZbKLVaqHT6bC3fhmNsFgssNvtvimEfcp/yebGc5fNT1EXBVzMZcMz/CbsT6rRxY2D0ezTAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-    &gt;&lt;/span&gt;
-    &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;6&quot;
-        title=&quot;&quot;
-        src=&quot;/static/c5a573694a068c6025e196e077ef0e4f/913fc/6.png&quot;
-        srcset=&quot;/static/c5a573694a068c6025e196e077ef0e4f/bc34b/6.png 293w,
-/static/c5a573694a068c6025e196e077ef0e4f/da9f0/6.png 585w,
-/static/c5a573694a068c6025e196e077ef0e4f/913fc/6.png 1170w,
-/static/c5a573694a068c6025e196e077ef0e4f/efb0c/6.png 1755w,
-/static/c5a573694a068c6025e196e077ef0e4f/79b58/6.png 2340w,
-/static/c5a573694a068c6025e196e077ef0e4f/85a00/6.png 2845w&quot;
-        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
-      /&gt;
-  &lt;/span&gt;
-  &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;What the board will hopefully look like when finished.&lt;/p&gt;
-&lt;p&gt;&lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/e36aadc4f1e5a5425e16ed9eb71d475f/95a97/7.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 49.82357092448836%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAABYlAAAWJQFJUiTwAAABTUlEQVQoz41SiY6CQAzl//9MBMIlMCjHCCYu7KpR441v2xKTXcXNTvLSmU77ehr3+x3vMHRY33Wd4NmWpfEXAetOpxMOhwOOxyOu1+vbIA9/4+fH5XIRx/V6jbquoZSC67owTROj0YhgYjy2RBdFEZqmwfl8/kUsGW63WyyXS6RpiqIoUJYlZrOZ3KuqEnKW/I7jBGE4IRnDtm0B23IVkmHTfMD3PSRJgow+GHmeE2lP3MsCmu5al5hrLRA9BWCyySSE57lYrb56Qo9KiOOIyKbIM8oszwR5lsn7GWWRC9h+miqEgQ/HtvDZNjA6Knmz2VB0TZn6UpJSKTIiK0sNPa+k3B616KIoRhAElJVHPR1DUav2+/3rUHiiu90ObdtKAG4DO3GfLMsSOI5DPQxlYItFPTyUobXh9+12k8mz0wNDq/OyNv9d6uflHlrsb8ii8v/Zb9XRAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-    &gt;&lt;/span&gt;
-    &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;7&quot;
-        title=&quot;&quot;
-        src=&quot;/static/e36aadc4f1e5a5425e16ed9eb71d475f/913fc/7.png&quot;
-        srcset=&quot;/static/e36aadc4f1e5a5425e16ed9eb71d475f/bc34b/7.png 293w,
-/static/e36aadc4f1e5a5425e16ed9eb71d475f/da9f0/7.png 585w,
-/static/e36aadc4f1e5a5425e16ed9eb71d475f/913fc/7.png 1170w,
-/static/e36aadc4f1e5a5425e16ed9eb71d475f/efb0c/7.png 1755w,
-/static/e36aadc4f1e5a5425e16ed9eb71d475f/79b58/7.png 2340w,
-/static/e36aadc4f1e5a5425e16ed9eb71d475f/95a97/7.png 2834w&quot;
-        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
-      /&gt;
-  &lt;/span&gt;
-  &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The underside.&lt;/p&gt;
-&lt;p&gt;&lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/3243dfa7ca2fda01fc561cca1943d4d6/7a0b5/8.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 50.19400352733686%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAyUlEQVQoz62S3QpEQBiG3b2ilN9DB85cgNyEG0BKHKwiSQmJZzOlXe1u7W6+epqpmb553+8diYtLurzhtm1cwbquYj0pPA6+Zb//orDve5qmYZ7nvywOw0BVVWRZRnW7IRVFQRiGeJ6HaZooioIsy6iqiqZp6LqOZVnYti3Y94Zh4DgOruvi+z5BEBBFEeM4PixP00TXdULt/mKe56RpShzHgiRJhIqyLKnrmrZt2d0ty3K2/GkWv9TzTKUjjE/JvQviHUefy//hHYb+APKFNWr1AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-    &gt;&lt;/span&gt;
-    &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;8&quot;
-        title=&quot;&quot;
-        src=&quot;/static/3243dfa7ca2fda01fc561cca1943d4d6/913fc/8.png&quot;
-        srcset=&quot;/static/3243dfa7ca2fda01fc561cca1943d4d6/bc34b/8.png 293w,
-/static/3243dfa7ca2fda01fc561cca1943d4d6/da9f0/8.png 585w,
-/static/3243dfa7ca2fda01fc561cca1943d4d6/913fc/8.png 1170w,
-/static/3243dfa7ca2fda01fc561cca1943d4d6/efb0c/8.png 1755w,
-/static/3243dfa7ca2fda01fc561cca1943d4d6/79b58/8.png 2340w,
-/static/3243dfa7ca2fda01fc561cca1943d4d6/7a0b5/8.png 2835w&quot;
-        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
-      /&gt;
-  &lt;/span&gt;
-  &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Rails.&lt;/p&gt;
-&lt;p&gt;&lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/e6acfc79dabe8c63c4b0f6d4d823a206/e01fe/9.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1056px;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 113.63636363636364%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
-    &gt;&lt;/span&gt;
-    &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;9&quot;
-        title=&quot;&quot;
-        src=&quot;/static/e6acfc79dabe8c63c4b0f6d4d823a206/e01fe/9.png&quot;
-        srcset=&quot;/static/e6acfc79dabe8c63c4b0f6d4d823a206/bc34b/9.png 293w,
-/static/e6acfc79dabe8c63c4b0f6d4d823a206/da9f0/9.png 585w,
-/static/e6acfc79dabe8c63c4b0f6d4d823a206/e01fe/9.png 1056w&quot;
-        sizes=&quot;(max-width: 1056px) 100vw, 1056px&quot;
-      /&gt;
-  &lt;/span&gt;
-  &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;A wooden mal I made. Hopefully making this board gives me an advantage for this foam one.&lt;/p&gt;
-&lt;p&gt;&lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/dd17b8b629dfb693b24a5bfb09716b01/5295c/10.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 171.53958232151533%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAiABQDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQFAwEC/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAZ1DJ0YpiDWcRZZgHoKd6BSICf/EAB8QAAEEAgIDAAAAAAAAAAAAAAEAAgMEESMSMiQxM//aAAgBAQABBQJg5SzsAQfgVRsmGo+6nab4lVjh1g+Oh1mJLAv/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIQESEx/9oACAEDAQE/AW9mSXadf//EABgRAAMBAQAAAAAAAAAAAAAAAAABEDER/9oACAECAQE/AVhwWRT/xAAcEAACAgIDAAAAAAAAAAAAAAAAAQIQETFhcYH/2gAIAQEABj8CSE0uDGKkMZPq5V6br//EABwQAAMAAgMBAAAAAAAAAAAAAAABESExUWGRQf/aAAgBAQABPyF/N4ML0yEUVBDZ8Uiy2ZH1cnrTH9BsQu6ifbgWh4jQiWzV+s0P/9oADAMBAAIAAwAAABAjEYIAD//EABkRAQEBAAMAAAAAAAAAAAAAAAEAESExQf/aAAgBAwEBPxBglojxs28R1f/EABgRAQEBAQEAAAAAAAAAAAAAAAABESFB/9oACAECAQE/EI2mF9Nelf/EACAQAQADAAEDBQAAAAAAAAAAAAEAESFBMWHhEIGRwfD/2gAIAQEAAT8QAHVeUOIKSCrEyCFLN33ijNKutMr7l3Kk12RhrdDYmi/JIVsndu0Bbz+U8S6c5+6SqbiKEQonE0jhpEv0/wD/2Q==&apos;); background-size: cover; display: block;&quot;
-    &gt;&lt;/span&gt;
-    &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;10&quot;
-        title=&quot;&quot;
-        src=&quot;/static/dd17b8b629dfb693b24a5bfb09716b01/4acc0/10.jpg&quot;
-        srcset=&quot;/static/dd17b8b629dfb693b24a5bfb09716b01/e33f8/10.jpg 293w,
-/static/dd17b8b629dfb693b24a5bfb09716b01/d5ce0/10.jpg 585w,
-/static/dd17b8b629dfb693b24a5bfb09716b01/4acc0/10.jpg 1170w,
-/static/dd17b8b629dfb693b24a5bfb09716b01/04b0f/10.jpg 1755w,
-/static/dd17b8b629dfb693b24a5bfb09716b01/5295c/10.jpg 2059w&quot;
-        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
-      /&gt;
-  &lt;/span&gt;
-  &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The blank I’ll be using from surfblanks australia.&lt;/p&gt;
-&lt;p&gt;&lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/35bce1a71f8ff07a84740b26a9dd4d3a/86eaa/11.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 27.526994244398995%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAGABQDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAG8AD//xAAUEAEAAAAAAAAAAAAAAAAAAAAQ/9oACAEBAAEFAn//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAUEAEAAAAAAAAAAAAAAAAAAAAQ/9oACAEBAAY/An//xAAXEAEBAQEAAAAAAAAAAAAAAAAAgSFR/9oACAEBAAE/Iarev//aAAwDAQACAAMAAAAQA8//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAZEAACAwEAAAAAAAAAAAAAAAAAIRFB8aH/2gAIAQEAAT8QeB4Ipyf/2Q==&apos;); background-size: cover; display: block;&quot;
-    &gt;&lt;/span&gt;
-    &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;11&quot;
-        title=&quot;&quot;
-        src=&quot;/static/35bce1a71f8ff07a84740b26a9dd4d3a/4acc0/11.jpg&quot;
-        srcset=&quot;/static/35bce1a71f8ff07a84740b26a9dd4d3a/e33f8/11.jpg 293w,
-/static/35bce1a71f8ff07a84740b26a9dd4d3a/d5ce0/11.jpg 585w,
-/static/35bce1a71f8ff07a84740b26a9dd4d3a/4acc0/11.jpg 1170w,
-/static/35bce1a71f8ff07a84740b26a9dd4d3a/04b0f/11.jpg 1755w,
-/static/35bce1a71f8ff07a84740b26a9dd4d3a/a5746/11.jpg 2340w,
-/static/35bce1a71f8ff07a84740b26a9dd4d3a/e0448/11.jpg 3510w,
-/static/35bce1a71f8ff07a84740b26a9dd4d3a/86eaa/11.jpg 21023w&quot;
-        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
-      /&gt;
-  &lt;/span&gt;
-  &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The template I’ll be cuting out onto mdf and then tracing onto the blank.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[DIY pvc pipe didgeridoo]]></title><description><![CDATA[I found some vidoes on youtube of people who had created didgeridoos out of PVC pipe, but had made the mouthpiece out of wax. I decided to…]]></description><link>https://sammozaffari.github.io/projects/didgeridoo/index/</link><guid isPermaLink="false">https://sammozaffari.github.io/projects/didgeridoo/index/</guid><pubDate>Sat, 01 Jun 2019 15:11:55 GMT</pubDate><content:encoded>&lt;p&gt;I found some vidoes on youtube of people who had created didgeridoos out of PVC pipe, but had made the mouthpiece out of wax. I decided to try and create my own one but 3d print the mouth piece for a challenge. So I designed it on CAD after measuring up my PCV pipe and it came out great.&lt;/p&gt;
+&lt;p&gt;Weapon.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[DIY pvc pipe didgeridoo]]></title><description><![CDATA[I found some vidoes on youtube of people who had created didgeridoos out of PVC pipe, but had made the mouthpiece out of wax. I decided to…]]></description><link>https://sammozaffari.github.io/projects/didgeridoo/index/</link><guid isPermaLink="false">https://sammozaffari.github.io/projects/didgeridoo/index/</guid><pubDate>Sat, 01 Jun 2019 15:11:55 GMT</pubDate><content:encoded>&lt;p&gt;I found some vidoes on youtube of people who had created didgeridoos out of PVC pipe, but had made the mouthpiece out of wax. I decided to try and create my own one but 3d print the mouth piece for a challenge. So I designed it on CAD after measuring up my PCV pipe and it came out great.&lt;/p&gt;
 &lt;p&gt;&lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/static/0c79e529651f9d6dcff027238ffba201/bae2f/1.png&quot;
@@ -4716,7 +4400,677 @@ Too many people out. This is only 1/4 of the crew.&lt;/p&gt;
       /&gt;
   &lt;/span&gt;
   &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Great success.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Bawley point]]></title><description><![CDATA[Bawley Point is a little town on the South Cost of New South Wales, Australia, in the Shoalhaven area, with a population of 698 people at…]]></description><link>https://sammozaffari.github.io/places/bawley-point/index/</link><guid isPermaLink="false">https://sammozaffari.github.io/places/bawley-point/index/</guid><pubDate>Wed, 15 May 2019 15:11:55 GMT</pubDate><content:encoded>&lt;p&gt;Bawley Point is a little town on the South Cost of New South Wales, Australia, in the Shoalhaven area, with a population of 698 people at the 2016 census. It’s around 30 minutes south of Ulladulla, New South Wales, and 30 minutes north of Batemans Bay on the South Coast of NSW.&lt;/p&gt;
+&lt;p&gt;Great success.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Making a surfboard]]></title><description><![CDATA[This post will be my visual journal while I am working on making my first foam and fibreglass surfboard. I’m going to be posting everything…]]></description><link>https://sammozaffari.github.io/projects/surfboard/index/</link><guid isPermaLink="false">https://sammozaffari.github.io/projects/surfboard/index/</guid><pubDate>Sat, 01 Jun 2019 15:11:55 GMT</pubDate><content:encoded>&lt;p&gt;This post will be my visual journal while I am working on making my first foam and fibreglass surfboard. I’m going to be posting everything in here, including my production process, any inevitable mistakes I make and any things I learn from the experience. I’m hoping I can make a cool board if I do everything right.&lt;/p&gt;
+&lt;p&gt;The first step was to design the board on Shape3DX to get accurate dimensions and measurements for the rocker, thickness and finbox locations.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/1e84ac2a196c2d117aae65364bed0ab9/a9a05/1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 52.12840195394277%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAABYlAAAWJQFJUiTwAAABK0lEQVQoz4WSiW7EIAxE+f8vTbvKBQnhSqifCZF2VbVII3OMh8HYjONUt22r3vu677vCWqtYV4HEZVll3mE1kgP3OI4aQtA4z3M1Jed6nmfNOQnBS7LVw5RSLaUoUspyXup1ncq9rkvWWYSicIPOGZwZ55y6izFK8ikxKwGhntwF28X57aIQkhrojt8EIadUVITkLhpj0mTmfb+UrHsYiDFoiRA1vB8xsG27ogk3J4jjHHw65LneH+qQNRoGd81+UrAGkAAkkgDz/gGfdX4EOfhv4BL8NR5B3j4Mg375six1mqanbQBuqQ21JvZ91tY6ndN65MM1/EwnjuMo4l830WnP0Ur03TTNt5j7Fb2XDa76p1Bw2iNKbRSxgX7jPN17LbY9DH2/XmqES38AWDsLjXNpIcQAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;1&quot;
+        title=&quot;&quot;
+        src=&quot;/static/1e84ac2a196c2d117aae65364bed0ab9/913fc/1.png&quot;
+        srcset=&quot;/static/1e84ac2a196c2d117aae65364bed0ab9/bc34b/1.png 293w,
+/static/1e84ac2a196c2d117aae65364bed0ab9/da9f0/1.png 585w,
+/static/1e84ac2a196c2d117aae65364bed0ab9/913fc/1.png 1170w,
+/static/1e84ac2a196c2d117aae65364bed0ab9/efb0c/1.png 1755w,
+/static/1e84ac2a196c2d117aae65364bed0ab9/79b58/1.png 2340w,
+/static/1e84ac2a196c2d117aae65364bed0ab9/a9a05/1.png 2866w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The finished board in imperial measurement. I think if I can follow this guide properly then the board should come out pretty good.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e437f2a43656744b6bcf7b2362384f22/0f7e1/3.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 50.03472222222223%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAABYlAAAWJQFJUiTwAAABLElEQVQoz6WS246GIAyEff8XNfGMKAdRu3zl7+5ebrImk5ZahmFoNwyDnOcpIQTFcRyy77t472v0Ne7i3P6ptQjooz+lJDlnjfM8SwcZXymlNp0yTbM23Pf9jesCRfPneeR9X81TakTXdSkHebeuq2zbpifyI+VLyW0zyLUGKXk7oPVQjzGpUuecooOMK8QYazMbXlXwG6Xc+o/cSInUUY4ys6LDK1VWi1zZOV83FFVgyLmpMeWQk4cQVR1iWMcYmsJ2WlHvzGAzG7CRq9kaArs2MGsg77j3fz9UN8Ufwr7vZRwnfZx5XvSBABMAGBussbX3xyd6WZZVYQ9bX3lT5vMMSjYMo86fU5O9bqZOHznYNqdkRAT9zG19FAYbP/DGfCH+FYhhoOFZlkW+ANyFCtGSpIpaAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;3&quot;
+        title=&quot;&quot;
+        src=&quot;/static/e437f2a43656744b6bcf7b2362384f22/913fc/3.png&quot;
+        srcset=&quot;/static/e437f2a43656744b6bcf7b2362384f22/bc34b/3.png 293w,
+/static/e437f2a43656744b6bcf7b2362384f22/da9f0/3.png 585w,
+/static/e437f2a43656744b6bcf7b2362384f22/913fc/3.png 1170w,
+/static/e437f2a43656744b6bcf7b2362384f22/efb0c/3.png 1755w,
+/static/e437f2a43656744b6bcf7b2362384f22/79b58/3.png 2340w,
+/static/e437f2a43656744b6bcf7b2362384f22/0f7e1/3.png 2880w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The round squash performer but this time in metric measurement, which I’ll be using most of the time. &lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/80809665824cba2543d26f661fff1025/10714/4.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 69.71014492753623%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAABYlAAAWJQFJUiTwAAAB4ElEQVQ4y4VT7XaCMAzl/R9re4LNfQjqJqigUhRby0cRs9507WE/tnFODqS9uclNQhTHMe33e9rtdmzH45Hquqbz+Rzel8uFbXruzftlWVKaphSB4L8HmPV6TV3X/Ym73W4UoTo84ziy3e/3ADDG0Ol0YsI0XbMSKWW4B3Yag4SBcAoC0TAMDAChlwx51+uV7/q+Z7Lp84OwbVsOyLItk6AvSrlgYwbSuudvrTVXCWK8pVR87hUxIRoKU0pZMmkBt1DlMBgmlrJhH31CJX3fWVJt2yAoz3dUFAUXEmGyee6cpmktcAxyEQxZTdNYyTokgA9FbdvxuVKSVqsVbbdbVyEuIVHrxmYq2UcvXUWwkdrOVQfDHRICL8SZWwV1aEOEUpERvUGVRbFn8qqqvnskqRTCBp44CAYCnGNQeGNAiGdCVIiFzPOcAV4uSF0fTRgCfBhwwKAQX0SSJBzDi51lGc1mLzSPE3p4eKT5fEGLxYftyye9v8f09PTM9y+vbzZwScvlh7WVxSX2bsbfm83GEfrK3Bo4ScgOH/3CytQ15CkrzXyvkGaMXzVgsSXg4SkL2yNU6g/d7hn20cuqEhzsJUMqJiq4t4ITIDn38HA4hF8P05v+eiDDPaRMf7nf8BjOF28bMl1opbkBAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;4&quot;
+        title=&quot;&quot;
+        src=&quot;/static/80809665824cba2543d26f661fff1025/913fc/4.png&quot;
+        srcset=&quot;/static/80809665824cba2543d26f661fff1025/bc34b/4.png 293w,
+/static/80809665824cba2543d26f661fff1025/da9f0/4.png 585w,
+/static/80809665824cba2543d26f661fff1025/913fc/4.png 1170w,
+/static/80809665824cba2543d26f661fff1025/10714/4.png 1380w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is another helpful summary, giving me length, width, thickness and volume. The board should hopefully come out a little less than 28.5L.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f84875d752b91bf0a347927e0f109211/0f7e1/5.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 59.236111111111114%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAACNUlEQVQoz21TTW/aQBD1b08PSNADEhJwb3tpe0GgHJK0inroqYoSNYEmJQZ/f/JhGxt7be/r7Bq3Eqqlp515O/N29smrPM4XmC+e8DT/jR8/Vdw/vuDugbhnFc9LHUvVwFq3oRk2dNOBabsSthvA8UJopg9Nc7A2PBh2AOV1ZdAmFTgu/GAD3XBgmDYc14fleMSFWFGDpltU48P3Q3iej+12j30UY7PdwbQ8mE5I2EDJsgztV1YlyprAS7CayVisFRdcJXnBVRRzzpsmCvww4pYbQbMjrhwOB1QkxEoGIV4UBcqylOJVXTWHVBXVtHFTe2RHFGXBRbzZJdgnJY8ODMp+v0NxzGTD/z4xSYu6rsHrU15zLnpImN/dP/DrL7e4/fadK0mS0ERMniymY4zJxrqq/61tTJCT0g1yliMrMgj52WzG31xcoN/vcyVND3KSmtfIixysYuRb4905pIcnSB/RGHl1dY1er8fH4zEUP/BwPB6Rpqn0UHgaxTHipEEUR4jbnFZxo/SQynqBgm50eXnJu90uRqMRFNuy6RfYYrfbyQYh2BanaYYkTk5cJjkRC1FR7wcBoijCdDoVE2I4HEIxLeuvmJg0z3PpZYvzvKA8z5sbeSQo+shDEnzbTKjphpwwoE3P9+WpAiIPw43kgjCUaPfEj+24Hu2HUnAymaDT6WAwGED5tXiBYZj0Qix6Zhq9ChMrehXrM6x0U0JdG1A1wkrD8lWFTtzNzVe8e/8BHz99xh8ZIX/1lQXy/QAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;5&quot;
+        title=&quot;&quot;
+        src=&quot;/static/f84875d752b91bf0a347927e0f109211/913fc/5.png&quot;
+        srcset=&quot;/static/f84875d752b91bf0a347927e0f109211/bc34b/5.png 293w,
+/static/f84875d752b91bf0a347927e0f109211/da9f0/5.png 585w,
+/static/f84875d752b91bf0a347927e0f109211/913fc/5.png 1170w,
+/static/f84875d752b91bf0a347927e0f109211/efb0c/5.png 1755w,
+/static/f84875d752b91bf0a347927e0f109211/79b58/5.png 2340w,
+/static/f84875d752b91bf0a347927e0f109211/0f7e1/5.png 2880w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This view shows the bottom contours and vee.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c5a573694a068c6025e196e077ef0e4f/85a00/6.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 49.73637961335676%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAABYlAAAWJQFJUiTwAAABdElEQVQoz61Sy2rCQBTN/xMrNDWJ2EQDCkqImidqNS/R6sKVK/duhApCXVgTPZ0ZTZqW7tqBw537Onceh7ter6CL2gyXy4UhTdN8n/nFWLGHrjRNwFGHFv1lZf2MMI8S4sPhgO12i9VqhdlshjiOEYZhjiiKMJ1OMZ/PsdlssN/vkSRJTnE+f4CjgeVyCdM0oes6DMPAZOIjJM1BEDBQoujuM2IyyPM8Vu84DhvwfjwyUo4mqlUZo+EQ4b0hCHyGmx982WzPhoTktDEm4zEhtVFXVbwSYo465YcSzH4PlknRh+tY8FyHWBu2ZeZwbIvFaI76tLZr6GjUVZRLPKLQB3c6neD7Pmq1Z/A8j0qlAlGU8CgIkGUZqlqHpmloNDQoikJyIgThCZIksXqRWNf18Ebek105e1AqA/op6/WaXXswGKDX7aLdbqPZbKLVaqHT6bC3fhmNsFgssNvtvimEfcp/yebGc5fNT1EXBVzMZcMz/CbsT6rRxY2D0ezTAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;6&quot;
+        title=&quot;&quot;
+        src=&quot;/static/c5a573694a068c6025e196e077ef0e4f/913fc/6.png&quot;
+        srcset=&quot;/static/c5a573694a068c6025e196e077ef0e4f/bc34b/6.png 293w,
+/static/c5a573694a068c6025e196e077ef0e4f/da9f0/6.png 585w,
+/static/c5a573694a068c6025e196e077ef0e4f/913fc/6.png 1170w,
+/static/c5a573694a068c6025e196e077ef0e4f/efb0c/6.png 1755w,
+/static/c5a573694a068c6025e196e077ef0e4f/79b58/6.png 2340w,
+/static/c5a573694a068c6025e196e077ef0e4f/85a00/6.png 2845w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;What the board will hopefully look like when finished.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e36aadc4f1e5a5425e16ed9eb71d475f/95a97/7.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 49.82357092448836%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAABYlAAAWJQFJUiTwAAABTUlEQVQoz41SiY6CQAzl//9MBMIlMCjHCCYu7KpR441v2xKTXcXNTvLSmU77ehr3+x3vMHRY33Wd4NmWpfEXAetOpxMOhwOOxyOu1+vbIA9/4+fH5XIRx/V6jbquoZSC67owTROj0YhgYjy2RBdFEZqmwfl8/kUsGW63WyyXS6RpiqIoUJYlZrOZ3KuqEnKW/I7jBGE4IRnDtm0B23IVkmHTfMD3PSRJgow+GHmeE2lP3MsCmu5al5hrLRA9BWCyySSE57lYrb56Qo9KiOOIyKbIM8oszwR5lsn7GWWRC9h+miqEgQ/HtvDZNjA6Knmz2VB0TZn6UpJSKTIiK0sNPa+k3B616KIoRhAElJVHPR1DUav2+/3rUHiiu90ObdtKAG4DO3GfLMsSOI5DPQxlYItFPTyUobXh9+12k8mz0wNDq/OyNv9d6uflHlrsb8ii8v/Zb9XRAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;7&quot;
+        title=&quot;&quot;
+        src=&quot;/static/e36aadc4f1e5a5425e16ed9eb71d475f/913fc/7.png&quot;
+        srcset=&quot;/static/e36aadc4f1e5a5425e16ed9eb71d475f/bc34b/7.png 293w,
+/static/e36aadc4f1e5a5425e16ed9eb71d475f/da9f0/7.png 585w,
+/static/e36aadc4f1e5a5425e16ed9eb71d475f/913fc/7.png 1170w,
+/static/e36aadc4f1e5a5425e16ed9eb71d475f/efb0c/7.png 1755w,
+/static/e36aadc4f1e5a5425e16ed9eb71d475f/79b58/7.png 2340w,
+/static/e36aadc4f1e5a5425e16ed9eb71d475f/95a97/7.png 2834w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The underside.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3243dfa7ca2fda01fc561cca1943d4d6/7a0b5/8.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 50.19400352733686%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAyUlEQVQoz62S3QpEQBiG3b2ilN9DB85cgNyEG0BKHKwiSQmJZzOlXe1u7W6+epqpmb553+8diYtLurzhtm1cwbquYj0pPA6+Zb//orDve5qmYZ7nvywOw0BVVWRZRnW7IRVFQRiGeJ6HaZooioIsy6iqiqZp6LqOZVnYti3Y94Zh4DgOruvi+z5BEBBFEeM4PixP00TXdULt/mKe56RpShzHgiRJhIqyLKnrmrZt2d0ty3K2/GkWv9TzTKUjjE/JvQviHUefy//hHYb+APKFNWr1AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;8&quot;
+        title=&quot;&quot;
+        src=&quot;/static/3243dfa7ca2fda01fc561cca1943d4d6/913fc/8.png&quot;
+        srcset=&quot;/static/3243dfa7ca2fda01fc561cca1943d4d6/bc34b/8.png 293w,
+/static/3243dfa7ca2fda01fc561cca1943d4d6/da9f0/8.png 585w,
+/static/3243dfa7ca2fda01fc561cca1943d4d6/913fc/8.png 1170w,
+/static/3243dfa7ca2fda01fc561cca1943d4d6/efb0c/8.png 1755w,
+/static/3243dfa7ca2fda01fc561cca1943d4d6/79b58/8.png 2340w,
+/static/3243dfa7ca2fda01fc561cca1943d4d6/7a0b5/8.png 2835w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Rails.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e6acfc79dabe8c63c4b0f6d4d823a206/e01fe/9.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1056px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 113.63636363636364%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;9&quot;
+        title=&quot;&quot;
+        src=&quot;/static/e6acfc79dabe8c63c4b0f6d4d823a206/e01fe/9.png&quot;
+        srcset=&quot;/static/e6acfc79dabe8c63c4b0f6d4d823a206/bc34b/9.png 293w,
+/static/e6acfc79dabe8c63c4b0f6d4d823a206/da9f0/9.png 585w,
+/static/e6acfc79dabe8c63c4b0f6d4d823a206/e01fe/9.png 1056w&quot;
+        sizes=&quot;(max-width: 1056px) 100vw, 1056px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A wooden mal I made. Hopefully making this board gives me an advantage for this foam one.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/dd17b8b629dfb693b24a5bfb09716b01/5295c/10.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 171.53958232151533%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAiABQDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQFAwEC/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAZ1DJ0YpiDWcRZZgHoKd6BSICf/EAB8QAAEEAgIDAAAAAAAAAAAAAAEAAgMEESMSMiQxM//aAAgBAQABBQJg5SzsAQfgVRsmGo+6nab4lVjh1g+Oh1mJLAv/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIQESEx/9oACAEDAQE/AW9mSXadf//EABgRAAMBAQAAAAAAAAAAAAAAAAABEDER/9oACAECAQE/AVhwWRT/xAAcEAACAgIDAAAAAAAAAAAAAAAAAQIQETFhcYH/2gAIAQEABj8CSE0uDGKkMZPq5V6br//EABwQAAMAAgMBAAAAAAAAAAAAAAABESExUWGRQf/aAAgBAQABPyF/N4ML0yEUVBDZ8Uiy2ZH1cnrTH9BsQu6ifbgWh4jQiWzV+s0P/9oADAMBAAIAAwAAABAjEYIAD//EABkRAQEBAAMAAAAAAAAAAAAAAAEAESExQf/aAAgBAwEBPxBglojxs28R1f/EABgRAQEBAQEAAAAAAAAAAAAAAAABESFB/9oACAECAQE/EI2mF9Nelf/EACAQAQADAAEDBQAAAAAAAAAAAAEAESFBMWHhEIGRwfD/2gAIAQEAAT8QAHVeUOIKSCrEyCFLN33ijNKutMr7l3Kk12RhrdDYmi/JIVsndu0Bbz+U8S6c5+6SqbiKEQonE0jhpEv0/wD/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;10&quot;
+        title=&quot;&quot;
+        src=&quot;/static/dd17b8b629dfb693b24a5bfb09716b01/4acc0/10.jpg&quot;
+        srcset=&quot;/static/dd17b8b629dfb693b24a5bfb09716b01/e33f8/10.jpg 293w,
+/static/dd17b8b629dfb693b24a5bfb09716b01/d5ce0/10.jpg 585w,
+/static/dd17b8b629dfb693b24a5bfb09716b01/4acc0/10.jpg 1170w,
+/static/dd17b8b629dfb693b24a5bfb09716b01/04b0f/10.jpg 1755w,
+/static/dd17b8b629dfb693b24a5bfb09716b01/5295c/10.jpg 2059w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The blank I’ll be using from surfblanks australia.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/35bce1a71f8ff07a84740b26a9dd4d3a/86eaa/11.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 27.526994244398995%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAGABQDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAG8AD//xAAUEAEAAAAAAAAAAAAAAAAAAAAQ/9oACAEBAAEFAn//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAUEAEAAAAAAAAAAAAAAAAAAAAQ/9oACAEBAAY/An//xAAXEAEBAQEAAAAAAAAAAAAAAAAAgSFR/9oACAEBAAE/Iarev//aAAwDAQACAAMAAAAQA8//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAZEAACAwEAAAAAAAAAAAAAAAAAIRFB8aH/2gAIAQEAAT8QeB4Ipyf/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;11&quot;
+        title=&quot;&quot;
+        src=&quot;/static/35bce1a71f8ff07a84740b26a9dd4d3a/4acc0/11.jpg&quot;
+        srcset=&quot;/static/35bce1a71f8ff07a84740b26a9dd4d3a/e33f8/11.jpg 293w,
+/static/35bce1a71f8ff07a84740b26a9dd4d3a/d5ce0/11.jpg 585w,
+/static/35bce1a71f8ff07a84740b26a9dd4d3a/4acc0/11.jpg 1170w,
+/static/35bce1a71f8ff07a84740b26a9dd4d3a/04b0f/11.jpg 1755w,
+/static/35bce1a71f8ff07a84740b26a9dd4d3a/a5746/11.jpg 2340w,
+/static/35bce1a71f8ff07a84740b26a9dd4d3a/e0448/11.jpg 3510w,
+/static/35bce1a71f8ff07a84740b26a9dd4d3a/86eaa/11.jpg 21023w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The template I’ll be cuting out onto mdf and then tracing onto the blank.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/1c3eb0b42de1085c66db976225b4681c/2d31a/12.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwAB/9oADAMBAAIQAxAAAAGhYO7jkYXulK0nGbBX/8QAHBAAAgIDAQEAAAAAAAAAAAAAAQIAEQMSISIx/9oACAEBAAEFArqM4hJgdqZvO814PQK9x/aAxz//xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIRECEi/9oACAEDAQE/Ab2WOXSx/8QAGREAAgMBAAAAAAAAAAAAAAAAABEBAhAh/9oACAECAQE/AREV48//xAAaEAACAgMAAAAAAAAAAAAAAAABEAARAiGB/9oACAEBAAY/AgwLmkTCuTKl/8QAHBABAAMAAgMAAAAAAAAAAAAAAQARITFBUWFx/9oACAEBAAE/ITT08xhnUU8wCFkb3XLeWOIjWwtBKN2V8r+TSOlTIqyBk//aAAwDAQACAAMAAAAQa+/8/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQAhEVH/2gAIAQMBAT8QcC48gC5OuX//xAAZEQADAAMAAAAAAAAAAAAAAAAAAREQMVH/2gAIAQIBAT8QWiij8Y//xAAcEAEAAwEAAwEAAAAAAAAAAAABABEhMVFhkXH/2gAIAQEAAT8Q8hw9sgPle/JaLRygWbyEb0qt1lQXoP5Ey0sF2Q6Alrc9zCB7KyEU2yPMGugX9hUyf//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;12&quot;
+        title=&quot;&quot;
+        src=&quot;/static/1c3eb0b42de1085c66db976225b4681c/4acc0/12.jpg&quot;
+        srcset=&quot;/static/1c3eb0b42de1085c66db976225b4681c/e33f8/12.jpg 293w,
+/static/1c3eb0b42de1085c66db976225b4681c/d5ce0/12.jpg 585w,
+/static/1c3eb0b42de1085c66db976225b4681c/4acc0/12.jpg 1170w,
+/static/1c3eb0b42de1085c66db976225b4681c/04b0f/12.jpg 1755w,
+/static/1c3eb0b42de1085c66db976225b4681c/a5746/12.jpg 2340w,
+/static/1c3eb0b42de1085c66db976225b4681c/2d31a/12.jpg 3024w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The template cut out.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3b0e2d040aeee8d4acb8eb692f916721/2d31a/13.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQT/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAR0yOMsGrpQSYxX/xAAaEAEAAgMBAAAAAAAAAAAAAAACABEBECEy/9oACAEBAAEFAh4j48cNxm1UJzUW/wD/xAAWEQEBAQAAAAAAAAAAAAAAAAARABD/2gAIAQMBAT8BI3//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAYEAADAQEAAAAAAAAAAAAAAAAAASAxEf/aAAgBAQAGPwI0c9ez/8QAGxAAAwEBAAMAAAAAAAAAAAAAAAERITEQQWH/2gAIAQEAAT8hvV6xWjB+jQVEEMfTmCD4eiZDEE88f//aAAwDAQACAAMAAAAQ7zYM/8QAFhEBAQEAAAAAAAAAAAAAAAAAIQEg/9oACAEDAQE/EKnD/8QAFxEAAwEAAAAAAAAAAAAAAAAAARARIf/aAAgBAgEBPxAHFF//xAAdEAEAAwEAAgMAAAAAAAAAAAABABEhMVFhQXGR/9oACAEBAAE/ECqgPT0QmzYvksTVDr6gDB7dTPPMttZdzk1tS8fcRwJ0d3v5C+pMqZEPij0SxnMADwT/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;13&quot;
+        title=&quot;&quot;
+        src=&quot;/static/3b0e2d040aeee8d4acb8eb692f916721/4acc0/13.jpg&quot;
+        srcset=&quot;/static/3b0e2d040aeee8d4acb8eb692f916721/e33f8/13.jpg 293w,
+/static/3b0e2d040aeee8d4acb8eb692f916721/d5ce0/13.jpg 585w,
+/static/3b0e2d040aeee8d4acb8eb692f916721/4acc0/13.jpg 1170w,
+/static/3b0e2d040aeee8d4acb8eb692f916721/04b0f/13.jpg 1755w,
+/static/3b0e2d040aeee8d4acb8eb692f916721/a5746/13.jpg 2340w,
+/static/3b0e2d040aeee8d4acb8eb692f916721/2d31a/13.jpg 3024w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Starting to hack away at it.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/55336fdf5deb22c806892b149981dc1a/2d31a/14.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABq5VqPIikZMuWsSH/xAAbEAACAgMBAAAAAAAAAAAAAAAAAQIRAxASIf/aAAgBAQABBQJuyzsi7ijr2OSks1nQyGv/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAVEAEBAAAAAAAAAAAAAAAAAAAgIf/aAAgBAQAGPwJw/wD/xAAaEAEAAgMBAAAAAAAAAAAAAAABABEQITFR/9oACAEBAAE/Ib1+QlcoF7FHZNM1UMp1k6cf/9oADAMBAAIAAwAAABBMF3z/xAAXEQADAQAAAAAAAAAAAAAAAAAAEBEx/9oACAEDAQE/EMIRf//EABYRAAMAAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPxAr/8QAHBABAQEAAgMBAAAAAAAAAAAAAREAIUExUYFx/9oACAEBAAE/EHGnhDNfOK8c/c4CI5LZkSublSXies0D0KyYYoPFzHS/mXXWT9tKu//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;14&quot;
+        title=&quot;&quot;
+        src=&quot;/static/55336fdf5deb22c806892b149981dc1a/4acc0/14.jpg&quot;
+        srcset=&quot;/static/55336fdf5deb22c806892b149981dc1a/e33f8/14.jpg 293w,
+/static/55336fdf5deb22c806892b149981dc1a/d5ce0/14.jpg 585w,
+/static/55336fdf5deb22c806892b149981dc1a/4acc0/14.jpg 1170w,
+/static/55336fdf5deb22c806892b149981dc1a/04b0f/14.jpg 1755w,
+/static/55336fdf5deb22c806892b149981dc1a/a5746/14.jpg 2340w,
+/static/55336fdf5deb22c806892b149981dc1a/2d31a/14.jpg 3024w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The tail.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c03e7ecf2c0907099d10c9b44bde90b8/2d31a/15.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAACA//EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAFWeGkVCg8fKsuEf//EABoQAAIDAQEAAAAAAAAAAAAAAAACARAREgP/2gAIAQEAAQUCmdNOxW2obSGwX16NJEr/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAVEAEBAAAAAAAAAAAAAAAAAAAgEf/aAAgBAQAGPwJVf//EABwQAQEBAAIDAQAAAAAAAAAAAAERABAhMUFhcf/aAAgBAQABPyG4+Y1eBp7POvTo6U/eOMpJxXWbNXf/2gAMAwEAAgADAAAAEF/xMP/EABcRAQEBAQAAAAAAAAAAAAAAAAERABD/2gAIAQMBAT8QSZJ3/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPxAf/8QAHBABAAIDAAMAAAAAAAAAAAAAAQARITFBEFGB/9oACAEBAAE/ELzeIa7HUG4t+w5rpwhVHlzTR6FMyklB3UyCTIdfBjaWBbVxs3P/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;15&quot;
+        title=&quot;&quot;
+        src=&quot;/static/c03e7ecf2c0907099d10c9b44bde90b8/4acc0/15.jpg&quot;
+        srcset=&quot;/static/c03e7ecf2c0907099d10c9b44bde90b8/e33f8/15.jpg 293w,
+/static/c03e7ecf2c0907099d10c9b44bde90b8/d5ce0/15.jpg 585w,
+/static/c03e7ecf2c0907099d10c9b44bde90b8/4acc0/15.jpg 1170w,
+/static/c03e7ecf2c0907099d10c9b44bde90b8/04b0f/15.jpg 1755w,
+/static/c03e7ecf2c0907099d10c9b44bde90b8/a5746/15.jpg 2340w,
+/static/c03e7ecf2c0907099d10c9b44bde90b8/2d31a/15.jpg 3024w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Kinda fucked this bit up. The tail isn’t straight.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/91b705b84d22a206d5fef294c1b1d25c/2d31a/16.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwQC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMB/9oADAMBAAIQAxAAAAGrcoZ7mIoJ0obo5Q1HAKf/xAAdEAACAQQDAAAAAAAAAAAAAAABAwACERIiECND/9oACAEBAAEFAqTsy2JYREHurOkUcS6qy55gk8f/xAAaEQACAgMAAAAAAAAAAAAAAAAAEQECECEi/9oACAEDAQE/AbT0IW8f/8QAFxEAAwEAAAAAAAAAAAAAAAAAARAhEf/aAAgBAgEBPwECLYv/xAAbEAACAgMBAAAAAAAAAAAAAAABEAACITFhcf/aAAgBAQAGPwKoYlkLdnrydL//xAAbEAEAAwEBAQEAAAAAAAAAAAABABExIUEQYf/aAAgBAQABPyG0vrDbzIhQCS2LNxXJ1qGz5B7b5LjiVgjg/Pn/2gAMAwEAAgADAAAAEFTb8P/EABcRAQEBAQAAAAAAAAAAAAAAAAEAESH/2gAIAQMBAT8Q4JE6Dbf/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAECAQE/ENpRQyIf/8QAHhABAAICAgMBAAAAAAAAAAAAAQARMXEhQVGBkbH/2gAIAQEAAT8QsxgGLRFjiVWjCvuWzu1r0zBWdN6iAr6mEsvmH9iACoFHJlfkL3ucNkqYBQt08EF53P/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;16&quot;
+        title=&quot;&quot;
+        src=&quot;/static/91b705b84d22a206d5fef294c1b1d25c/4acc0/16.jpg&quot;
+        srcset=&quot;/static/91b705b84d22a206d5fef294c1b1d25c/e33f8/16.jpg 293w,
+/static/91b705b84d22a206d5fef294c1b1d25c/d5ce0/16.jpg 585w,
+/static/91b705b84d22a206d5fef294c1b1d25c/4acc0/16.jpg 1170w,
+/static/91b705b84d22a206d5fef294c1b1d25c/04b0f/16.jpg 1755w,
+/static/91b705b84d22a206d5fef294c1b1d25c/a5746/16.jpg 2340w,
+/static/91b705b84d22a206d5fef294c1b1d25c/2d31a/16.jpg 3024w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;One half of the board done.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4d7a33b925323838deff6dc2ab353f21/2d31a/17.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABREoiY1K7pHcAwf/EABsQAAICAwEAAAAAAAAAAAAAAAABAhAREjEh/9oACAEBAAEFAsjdJGFF6nkTtrh//8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAFhABAQEAAAAAAAAAAAAAAAAAIAER/9oACAEBAAY/AlkX/8QAHBABAAICAwEAAAAAAAAAAAAAAQARITEQQWFx/9oACAEBAAE/IW/sq1FXtl+FdkVQFqfEujcZX2U5O5Uuub//2gAMAwEAAgADAAAAEEwCQv/EABYRAQEBAAAAAAAAAAAAAAAAAAEQEf/aAAgBAwEBPxBENi6z/8QAFxEAAwEAAAAAAAAAAAAAAAAAARARIf/aAAgBAgEBPxC7EBF//8QAHRABAQEBAAIDAQAAAAAAAAAAAREAIUFREDFhof/aAAgBAQABPxC69b5uUXr3k6h+GOQiDPN8Zcq51Af5pQuFCq9OCL1dX3gz6yqR6JiR8f/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;17&quot;
+        title=&quot;&quot;
+        src=&quot;/static/4d7a33b925323838deff6dc2ab353f21/4acc0/17.jpg&quot;
+        srcset=&quot;/static/4d7a33b925323838deff6dc2ab353f21/e33f8/17.jpg 293w,
+/static/4d7a33b925323838deff6dc2ab353f21/d5ce0/17.jpg 585w,
+/static/4d7a33b925323838deff6dc2ab353f21/4acc0/17.jpg 1170w,
+/static/4d7a33b925323838deff6dc2ab353f21/04b0f/17.jpg 1755w,
+/static/4d7a33b925323838deff6dc2ab353f21/a5746/17.jpg 2340w,
+/static/4d7a33b925323838deff6dc2ab353f21/2d31a/17.jpg 3024w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Simple tool I made for making sure the rails are square.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/274b40b1c9910f30c85132775da7b7e4/2d31a/18.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIBAwQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIQAxAAAAEpdo5ZpB3xD6M44X//xAAdEAABBAIDAAAAAAAAAAAAAAAAAgMRIQEQEjEy/9oACAEBAAEFAkrHDhI2m3cVAmhfmDHb2v/EABYRAAMAAAAAAAAAAAAAAAAAABEgIf/aAAgBAwEBPwE1P//EABYRAAMAAAAAAAAAAAAAAAAAABEgIf/aAAgBAgEBPwERP//EABgQAAIDAAAAAAAAAAAAAAAAAAEQESAh/9oACAEBAAY/AoWIWC//xAAcEAACAgMBAQAAAAAAAAAAAAAAARExIVFhscH/2gAIAQEAAT8hS2spHSxtDk+i7wmd0ZSRBwexD1KBUf/aAAwDAQACAAMAAAAQjDFD/8QAGBEAAwEBAAAAAAAAAAAAAAAAABEhARD/2gAIAQMBAT8QbBBV8//EABcRAAMBAAAAAAAAAAAAAAAAAAARIRD/2gAIAQIBAT8QoUcWf//EAB0QAQEBAAICAwAAAAAAAAAAAAERACExQVFhkcH/2gAIAQEAAT8QCJ2F8TWaU4kx2qHHA0lPX6w9JI+8l7cSns0qjeE+ME6yRt6zxwI8QmHDf//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;18&quot;
+        title=&quot;&quot;
+        src=&quot;/static/274b40b1c9910f30c85132775da7b7e4/4acc0/18.jpg&quot;
+        srcset=&quot;/static/274b40b1c9910f30c85132775da7b7e4/e33f8/18.jpg 293w,
+/static/274b40b1c9910f30c85132775da7b7e4/d5ce0/18.jpg 585w,
+/static/274b40b1c9910f30c85132775da7b7e4/4acc0/18.jpg 1170w,
+/static/274b40b1c9910f30c85132775da7b7e4/04b0f/18.jpg 1755w,
+/static/274b40b1c9910f30c85132775da7b7e4/a5746/18.jpg 2340w,
+/static/274b40b1c9910f30c85132775da7b7e4/2d31a/18.jpg 3024w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mostly all done now. I just have to fix the tail up.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8822af898dafd1c2658ac3a1337d0ab2/2d31a/19.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAMAAv/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAVzhPKn4mYXoUtJfp5n/xAAcEAACAQUBAAAAAAAAAAAAAAABAgAREiEiMTL/2gAIAQEAAQUC1VfUC0BwB3Ev2c2gVh4vqf/EABYRAQEBAAAAAAAAAAAAAAAAABIAEP/aAAgBAwEBPwFS3//EABcRAAMBAAAAAAAAAAAAAAAAAAAQE2H/2gAIAQIBAT8BlpN//8QAHRAAAgIBBQAAAAAAAAAAAAAAAAEhMRAgMkFhkf/aAAgBAQAGPwLjws3aJo7ZLGLH/8QAHBABAAICAwEAAAAAAAAAAAAAAQARITEQQWFx/9oACAEBAAE/Ia6B9gp6YzqpVAn2oDAtxO0ZtsJPA9BEe1+cJXZLn//aAAwDAQACAAMAAAAQ2N48/8QAFhEBAQEAAAAAAAAAAAAAAAAAcQAQ/9oACAEDAQE/EDHf/8QAGREAAwADAAAAAAAAAAAAAAAAAAERECFx/9oACAECAQE/ENlGx2XH/8QAHRABAQACAwEBAQAAAAAAAAAAAREAITFBYVFxgf/aAAgBAQABPxAAi5aA887xb4oVAV7fXDmjzCr7vDVie+MiMTzIM2/3CSGZexzSykfXv8wRCtyRjW3xxLyxAuV9z//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;19&quot;
+        title=&quot;&quot;
+        src=&quot;/static/8822af898dafd1c2658ac3a1337d0ab2/4acc0/19.jpg&quot;
+        srcset=&quot;/static/8822af898dafd1c2658ac3a1337d0ab2/e33f8/19.jpg 293w,
+/static/8822af898dafd1c2658ac3a1337d0ab2/d5ce0/19.jpg 585w,
+/static/8822af898dafd1c2658ac3a1337d0ab2/4acc0/19.jpg 1170w,
+/static/8822af898dafd1c2658ac3a1337d0ab2/04b0f/19.jpg 1755w,
+/static/8822af898dafd1c2658ac3a1337d0ab2/a5746/19.jpg 2340w,
+/static/8822af898dafd1c2658ac3a1337d0ab2/2d31a/19.jpg 3024w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Not for removing all the crap off the top of the blank.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7922797903c33a49886d252f696ccc69/2d31a/20.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAATSM4tYgIHxc3KxQf//EAB0QAAICAQUAAAAAAAAAAAAAAAECABEhAxASIjL/2gAIAQEAAQUCXU6hgZaQtgGcoDRY4uHym3//xAAXEQADAQAAAAAAAAAAAAAAAAAAARIQ/9oACAEDAQE/AaZT3//EABgRAAIDAAAAAAAAAAAAAAAAAAATAQIQ/9oACAECAQE/AV1Fxv8A/8QAGRAAAgMBAAAAAAAAAAAAAAAAABEBICHh/9oACAEBAAY/AlJsHKN5b//EAB8QAQACAgAHAAAAAAAAAAAAAAEAERAhMUFRcZGhsf/aAAgBAQABPyFOw3EPhOueYuIShiJSpW9QCl7ceJEq28sf/9oADAMBAAIAAwAAABC3EjL/xAAVEQEBAAAAAAAAAAAAAAAAAAABIP/aAAgBAwEBPxACL//EABYRAQEBAAAAAAAAAAAAAAAAAAEgMf/aAAgBAgEBPxBTSH//xAAdEAEAAgMAAwEAAAAAAAAAAAABABEhMUFRYZGx/9oACAEBAAE/EClC2lCLGpsev2C3kzwX7AoG+EUXwy1o+TKkKRcW0xAK6E2e5oXnEzN8RgRoBby4LP/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;20&quot;
+        title=&quot;&quot;
+        src=&quot;/static/7922797903c33a49886d252f696ccc69/4acc0/20.jpg&quot;
+        srcset=&quot;/static/7922797903c33a49886d252f696ccc69/e33f8/20.jpg 293w,
+/static/7922797903c33a49886d252f696ccc69/d5ce0/20.jpg 585w,
+/static/7922797903c33a49886d252f696ccc69/4acc0/20.jpg 1170w,
+/static/7922797903c33a49886d252f696ccc69/04b0f/20.jpg 1755w,
+/static/7922797903c33a49886d252f696ccc69/a5746/20.jpg 2340w,
+/static/7922797903c33a49886d252f696ccc69/2d31a/20.jpg 3024w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Done! The foam under the top layer was much softer.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/fac5bf12f773852707b238e391d99907/d8f93/21.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAFaLcDCVhf/xAAaEAEBAAIDAAAAAAAAAAAAAAACAQADEBES/9oACAEBAAEFAmn1A/NOyZef/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BiP/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/Aar/xAAZEAEAAgMAAAAAAAAAAAAAAAABAAIRIDH/2gAIAQEABj8CQozmNf/EABkQAAMBAQEAAAAAAAAAAAAAAAABESExQf/aAAgBAQABPyHou64YtuREtwh+DhUf/9oADAMBAAIAAwAAABCg7//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QL//EABsQAQADAAMBAAAAAAAAAAAAAAEAESExQVGR/9oACAEBAAE/ELAh7A9ZmZHVWV1emxbAAcjGqoYx1Gzh+z//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;21&quot;
+        title=&quot;&quot;
+        src=&quot;/static/fac5bf12f773852707b238e391d99907/4acc0/21.jpg&quot;
+        srcset=&quot;/static/fac5bf12f773852707b238e391d99907/e33f8/21.jpg 293w,
+/static/fac5bf12f773852707b238e391d99907/d5ce0/21.jpg 585w,
+/static/fac5bf12f773852707b238e391d99907/4acc0/21.jpg 1170w,
+/static/fac5bf12f773852707b238e391d99907/04b0f/21.jpg 1755w,
+/static/fac5bf12f773852707b238e391d99907/a5746/21.jpg 2340w,
+/static/fac5bf12f773852707b238e391d99907/e0448/21.jpg 3510w,
+/static/fac5bf12f773852707b238e391d99907/d8f93/21.jpg 4032w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Some strange rocker I’ve created.&lt;/p&gt;
+&lt;p&gt;Next up is an important paprt of the shaping process; making railbands. Because I’d already fluked enough of the board, I decided I wanted to try do the railbands properly. I printed out of the outline of the board with the railband dimensions based roughly off Greenlight Surf Supply’s guidelines. Now to figure out how to apply these to the board. Also, I think that the board I’ve made has gone slightly skinnier in width than the original outline, which might be a problem when trying to copy the lines onto the board.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0824fbd881e9e8252f10f6446af886bb/2d31a/22.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBAgQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/9oADAMBAAIQAxAAAAFF5ZlgGhT387eiksBf/8QAHhAAAQQBBQAAAAAAAAAAAAAAAQACETEDBBAhIjL/2gAIAQEAAQUCZbh1TLf5hYuS+oWnKJnb/8QAFREBAQAAAAAAAAAAAAAAAAAAIEH/2gAIAQMBAT8Bo//EABcRAQADAAAAAAAAAAAAAAAAABABMUH/2gAIAQIBAT8BijD/xAAUEAEAAAAAAAAAAAAAAAAAAAAw/9oACAEBAAY/Ak//xAAaEAEAAwEBAQAAAAAAAAAAAAABABEhEEGh/9oACAEBAAE/ITrPIVsJUPzDrhhVDyY24o1jP//aAAwDAQACAAMAAAAQj85y/8QAFhEBAQEAAAAAAAAAAAAAAAAAARAR/9oACAEDAQE/EGE12f/EABcRAQEBAQAAAAAAAAAAAAAAAAEAEBH/2gAIAQIBAT8QnsIIz//EAB0QAQACAgIDAAAAAAAAAAAAAAEAESFhMVEQobH/2gAIAQEAAT8QFBDtBcx2G45zP2pSGz74oXKme2SkGBlUqthfU5T/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;22&quot;
+        title=&quot;&quot;
+        src=&quot;/static/0824fbd881e9e8252f10f6446af886bb/4acc0/22.jpg&quot;
+        srcset=&quot;/static/0824fbd881e9e8252f10f6446af886bb/e33f8/22.jpg 293w,
+/static/0824fbd881e9e8252f10f6446af886bb/d5ce0/22.jpg 585w,
+/static/0824fbd881e9e8252f10f6446af886bb/4acc0/22.jpg 1170w,
+/static/0824fbd881e9e8252f10f6446af886bb/04b0f/22.jpg 1755w,
+/static/0824fbd881e9e8252f10f6446af886bb/a5746/22.jpg 2340w,
+/static/0824fbd881e9e8252f10f6446af886bb/2d31a/22.jpg 3024w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Railbands.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Bawley point]]></title><description><![CDATA[Bawley Point is a little town on the South Cost of New South Wales, Australia, in the Shoalhaven area, with a population of 698 people at…]]></description><link>https://sammozaffari.github.io/places/bawley-point/index/</link><guid isPermaLink="false">https://sammozaffari.github.io/places/bawley-point/index/</guid><pubDate>Wed, 15 May 2019 15:11:55 GMT</pubDate><content:encoded>&lt;p&gt;Bawley Point is a little town on the South Cost of New South Wales, Australia, in the Shoalhaven area, with a population of 698 people at the 2016 census. It’s around 30 minutes south of Ulladulla, New South Wales, and 30 minutes north of Batemans Bay on the South Coast of NSW.&lt;/p&gt;
 &lt;h2&gt;&lt;strong&gt;Local history&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;Around 20,000 years ago, the landscape of Bawley Point was far different that it now is today. The most noticeable is the lack of ocean, which wouldn’t have even been visible from the area. The sea level was a 14 kilometres further out. The climate would have been cold and dry, with ocean water captured in the massive polar ice caps. Instead of the ocean, there’s large rolling plains with rocky ridges and hills, covered in trees, providing food and shelter for Australia’s megafauna: giant kangaroos, wombats and diprotodons.&lt;/p&gt;
 &lt;p&gt;&lt;a
