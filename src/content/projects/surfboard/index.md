@@ -59,7 +59,7 @@ The blank I'll be using from surfblanks australia.
 
 ![](./images/11.jpg)
 
-The template I'll be cuting out onto mdf and then tracing onto the blank.
+The template I'll be cutting out onto mdf and then tracing onto the blank.
 
 ![](./images/12.jpg)
 
